@@ -1,0 +1,5 @@
+{
+  "version": {
+    "0.3.0": "github:typings/typed-source-map-support#900ed4180a22285bce4bbabc0760427e71a59eca"
+  }
+}
