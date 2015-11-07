@@ -1,0 +1,25 @@
+{
+  "type": "object",
+  "properties": {
+    "version": {
+      "type": "object",
+      "patternProperties": {
+        "^\\d+\\.\\d+\\.\\d+(?:-\\w+)?$": {
+          "oneOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          ]
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

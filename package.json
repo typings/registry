@@ -1,0 +1,30 @@
+{
+  "name": "registry",
+  "private": true,
+  "description": "The registry of type definitions for TypeScript",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/typings/registry.git"
+  },
+  "keywords": [
+    "typescript",
+    "definition",
+    "registry",
+    "typings",
+    "manager",
+    "typed"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/typings/registry/issues"
+  },
+  "homepage": "https://github.com/typings/registry",
+  "devDependencies": {
+    "ajv": "^1.4.9",
+    "glob": "^5.0.15",
+    "parse-json": "^2.2.0"
+  }
+}
