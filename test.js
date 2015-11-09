@@ -47,7 +47,11 @@ glob('{ambient,bower,common,github,npm}/**/*.json', function (err, files) {
         Object.keys(data.version).forEach(function (version) {
           arrify(data.version[version]).forEach(function (location) {
             typingsBatch.push(function (done) {
-              typings.installDependency(location, { cwd: __dirname, name: 'test' })
+              typings.installDependency(location, {
+                cwd: __dirname,
+                name: 'test',
+                ambient: /^ambient/.test(file)
+              })
                 .then(function () {
                   return done()
                 }, done)
