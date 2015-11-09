@@ -24,7 +24,10 @@
   "homepage": "https://github.com/typings/registry",
   "devDependencies": {
     "ajv": "^1.4.9",
+    "arrify": "^1.0.0",
+    "batch": "^0.5.3",
     "glob": "^5.0.15",
-    "parse-json": "^2.2.0"
+    "parse-json": "^2.2.0",
+    "typings": "^0.1.0"
   }
 }
