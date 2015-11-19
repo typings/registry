@@ -1,5 +1,5 @@
 {
-  "version": {
+  "versions": {
     "1.0.0": "github:typings/typed-chalk#377de52aeac245226394c41fa6adcd31dbd17d51"
   }
 }

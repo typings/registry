@@ -11,7 +11,7 @@
 ## Structure
 
 ```
-/{package manager}/{package name}.json
+/<package manager>/<package name>.json
 ```
 
 Where "package manager" is one of:
@@ -22,7 +22,7 @@ Where "package manager" is one of:
 * **ambient** for ambient dependencies (typings that describe our programming environment)
 * **common** for dependencies not on any specific registry, but have a standardized library in JS
 
-And "package name" is the name of the package in the registry. For GitHub and scoped NPM packages, it's valid to make a folder such as `@example/entry.json`.
+And "package name" is the name of the package in the registry. For GitHub and scoped NPM packages, it's valid to make a folder such as `@example/entry.json`. The format of each package file is described in `schema.json`.
 
 ## Requests
 

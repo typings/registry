@@ -1,5 +1,5 @@
 {
-  "version": {
+  "versions": {
     "3.0.0": "github:typings/typed-d3#8bb38bb0ef0a48ac273f6045c26753260ea089df"
   }
 }

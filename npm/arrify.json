@@ -1,5 +1,5 @@
 {
-  "version": {
+  "versions": {
     "1.0.0": "github:typings/typed-arrify#32383d5fd3e6a8614abb6dba254a3aab07cd7424"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": {
+  "versions": {
     "4.0.0": "github:typings/typed-tape#054c1ab7d30611088537c066c44af2095c75e3a8"
   }
 }

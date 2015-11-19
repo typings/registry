@@ -1,5 +1,5 @@
 {
-  "version": {
+  "versions": {
     "0.1.0": "github:typings/typed-ms#f40c81c7f45bc35e970de851117c29fc959220b2"
   }
 }

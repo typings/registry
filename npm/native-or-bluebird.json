@@ -1,5 +1,5 @@
 {
-  "version": {
+  "versions": {
     "1.0.0": "github:typings/typed-native-or-bluebird#e9b7a479d68931ef88895d578860456bfbe91faa"
   }
 }
