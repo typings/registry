@@ -26,7 +26,7 @@ And "package name" is the name of the package in the registry. For GitHub and sc
 
 ## Requests
 
-An up-to-date list of [typings requests](https://github.com/typings/meta/labels/typings%20request) are labelled in the [meta](https://github.com/typings/meta) repo.
+An up-to-date list of [typings requests](https://github.com/typings/registry/labels/typings%20request) are labelled in the registry.
 
 ## Questions?
 
