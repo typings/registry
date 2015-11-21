@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:typings/typed-form-data#d4f793ca3c689b7754684dd055c01f42fd3d403c"
+  }
+}
