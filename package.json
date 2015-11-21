@@ -3,7 +3,9 @@
   "private": true,
   "description": "The registry of type definitions for TypeScript",
   "scripts": {
-    "test": "node test.js --changed"
+    "test": "node test.js --changed --list",
+    "test-all": "node test.js",
+    "test-ls": "node test.js --list"
   },
   "repository": {
     "type": "git",
