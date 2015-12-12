@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.1.0": "github:typings/typed-thenify#a48708b3e5bcd6783a9e0c52e6f3a122f8ad6bd9"
+  }
+}
