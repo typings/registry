@@ -7,7 +7,7 @@
 1. Write a typings definition and upload to GitHub - here's an [example using debug](https://github.com/typings/typed-debug/blob/master/typings.json)
 2. Use [semver](http://semver.org/) to specify which version the typing is valid for - here's [debug again](https://github.com/typings/registry/blob/master/npm/debug.json)
 3. Run `npm test` and check that the registry is valid, once passed do a pull request
-3. Once the pull request is merged, it is used as the canonical reference - `typings install debug`
+4. Once the pull request is merged, it is used as the canonical reference - `typings install debug`
 
 ## Structure
 
