@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.5.10": "github:angular/DefinitelyTyped/zone/zone.d.ts#31e7317c9a0793857109236ef7c7f223305a8aa9"
+  }
+}
