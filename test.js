@@ -23,18 +23,21 @@ filesBatch.concurrency(10)
 typingsBatch.concurrency(5)
 
 if (changedOnly) {
-  exec('git diff --name-only HEAD~1', cbify(function (stdout) {
+  exec('git diff --name-status HEAD~1', cbify(function (stdout) {
     var mm = new Minimatch(match)
 
-    var files = stdout.split(/\r?\n/g)
-      .map(function (filename) {
-        return filename.trim()
+    var changedFiles = stdout.split(/\r?\n/g)
+      .filter(function (line) {
+        return line.charAt(0) !== 'D'
+      })
+      .map(function (line) {
+        return line.substr(1).trim()
       })
       .filter(function (filename) {
         return mm.match(filename)
       })
 
-    return execFiles(files)
+    return execFiles(changedFiles)
   }))
 } else {
   glob(match, cbify(execFiles))
@@ -44,9 +47,8 @@ if (changedOnly) {
  * Run the test on all files.
  */
 function execFiles (files) {
-  // Exit when no files to test.
   if (files.length === 0) {
-    console.error('No files found...')
+    console.error('No files added...')
     process.exit(0)
   }
 
