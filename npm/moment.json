@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.10.5": "github:typings/typed-moment#a4075cd50e63efbedd850f654594f293ab81a385"
+  }
+}
