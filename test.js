@@ -26,18 +26,28 @@ if (changedOnly) {
   exec('git diff --name-status HEAD~1', cbify(function (stdout) {
     var mm = new Minimatch(match)
 
-    var changedFiles = stdout.split(/\r?\n/g)
-      .filter(function (line) {
-        return line.charAt(0) !== 'D'
-      })
+    var files = stdout.trim().split(/\r?\n/g)
       .map(function (line) {
-        return line.substr(1).trim()
-      })
-      .filter(function (filename) {
-        return mm.match(filename)
+        return line.split('\t')
       })
 
-    return execFiles(changedFiles)
+    // Check each line is a new, valid, addition.
+    files.forEach(function (line) {
+      if (line[0] === 'A' && !mm.match(line[1])) {
+        throw new TypeError('Invalid filename: ' + line[1])
+      }
+    })
+
+    // Files to actually test are a subset of changed.
+    var testFiles = files
+      .filter(function (line) {
+        return line[0] !== 'D' && mm.match(line[1])
+      })
+      .map(function (line) {
+        return line[1]
+      })
+
+    return execFiles(testFiles)
   }))
 } else {
   glob(match, cbify(execFiles))
