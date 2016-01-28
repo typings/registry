@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:lukephills/Typings-Tone#7c7288d3856193fe96056ad2438c96f85d77bb25"
+    "1.0.0": "https://github.com/BlokDust/Tone.js/blob/master/utils/TypeScript/Tone.d.ts#ad623816d5a8d9742bde5fe34f12b24d8e5e5f62"
   }
 }
