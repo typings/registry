@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.0.0": "github:typings/typed-proxy-agent#871a10e219dd27728c300df232d3bca463ca910f"
+  }
+}
