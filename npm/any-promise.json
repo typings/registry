@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:typings/typed-any-promise#74ba6cf22149ff4de39c2338a9cb84f9ded6f042"
+  }
+}
