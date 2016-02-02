@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "4.0.0": "github:typings/typed-detect-indent#5576659901b4219189fde838c94e5c73daa9bfc7"
+  }
+}
