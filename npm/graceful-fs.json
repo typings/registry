@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "4.0.0": "github:typings/typed-graceful-fs#84adcae7061f5f71409cac66fc6628929e536022"
+  }
+}
