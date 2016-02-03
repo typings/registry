@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.8": "github:unional/typed-domready#881449d638c89897b1e70172ab5413b8886b4ef9"
+  }
+}
