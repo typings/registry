@@ -1,0 +1,5 @@
+{
+  "versions": {
+	"1.0.4": "github:andrew-w-ross/typings-redux-thunk#1345fd60f45beb52b1f5a577173a098b780d18e6"
+  }
+}
