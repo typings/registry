@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:typings/typed-sort-keys#168ea92a8450b3573470f3f5c0d58e6a97181673"
+  }
+}

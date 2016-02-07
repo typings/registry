@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.5.0": "github:typings/typed-rimraf#32ad9f36b16bef0480ce480e0233853ce68f6394"
+  }
+}

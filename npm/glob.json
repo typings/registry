@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "6.0.0": "github:typings/typed-glob#b6dcc545de0e25f2e4d6c9ee2c97f9fde0223d8f"
+  }
+}
