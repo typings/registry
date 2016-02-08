@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.5.0": "github:enriched/typed-ajv#66c35ae67b4e2792f0caf8db70e6ed5d937a8f94"
+  }
+}
