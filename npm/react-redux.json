@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "4.4.0": "github:andrew-w-ross/typings-react-redux#6be88a57427f8ec220cad13d68565fd5f5711146"
+  }
+}
