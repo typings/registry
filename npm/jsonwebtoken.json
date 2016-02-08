@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "5.5.4": "github:enriched/typed-jsonwebtoken#0519409cb457f00301086af68acb4b1be4d72ec4"
+  }
+}
