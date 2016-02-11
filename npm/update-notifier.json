@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.6.0": "github:typings/typed-update-notifier#d3a027d90487f1b876157c75419f5c4a4a097a09"
+    "0.6.0": "github:typed-typings/npm-update-notifier#d3a027d90487f1b876157c75419f5c4a4a097a09"
   }
 }

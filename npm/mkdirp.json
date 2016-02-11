@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.5.0": "github:typings/typed-mkdirp#c22e0a7cf2597d5fc9122ca70af19b6638886fc0"
+    "0.5.0": "github:typed-typings/npm-mkdirp#c22e0a7cf2597d5fc9122ca70af19b6638886fc0"
   }
 }

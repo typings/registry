@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.3.7": "github:typings/typed-orchestrator#22b04f8621e66fcc6c44dae198327d9e6ba5fd0c"
+    "0.3.7": "github:typed-typings/npm-orchestrator#bd916c96d6d8e946bc73772fc3854accd5860aa4"
   }
 }

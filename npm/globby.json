@@ -1,5 +1,5 @@
 {
   "versions": {
-    "3.0.0": "github:typings/typed-globby#8df7e4e29a0dc3a9e7405e5a0be2f743829b02ea"
+    "3.0.0": "github:typed-typings/npm-globby#6f91a21011a4cc11ef53600f985b8a0ae7ee7cae"
   }
 }

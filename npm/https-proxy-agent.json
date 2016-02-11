@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:typings/typed-https-proxy-agent#6e0cb6d6cfdeddffb06377c539790b9c501bce9b"
+    "1.0.0": "github:typed-typings/npm-https-proxy-agent#6e0cb6d6cfdeddffb06377c539790b9c501bce9b"
   }
 }

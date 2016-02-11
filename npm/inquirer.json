@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.11.0": "github:typings/typed-inquirer#c037ce26b55827d40ace78ffeba5c43ec7fb74fb"
+    "0.11.0": "github:typed-typings/npm-inquirer#c037ce26b55827d40ace78ffeba5c43ec7fb74fb"
   }
 }
