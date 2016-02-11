@@ -1,5 +1,5 @@
 {
   "versions": {
-    "3.31.0": "github:typings/typed-yargs#0ceaff08a778b580fd4772b04bfb59fbf836dd8e"
+    "3.31.0": "github:typed-typings/npm-yargs#0ceaff08a778b580fd4772b04bfb59fbf836dd8e"
   }
 }
