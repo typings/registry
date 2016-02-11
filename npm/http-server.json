@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.8.5": "github:unional/typed-http-server#c3fe8aff9f9d87b1db6a30f8df6ff4b56e052150"
+    "0.8.5": "github:typed-typings/npm-http-server#c7b5b077b1fb80b109c6c64cdd913b0d10265fd9"
   }
 }
