@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.5.0": "github:Fankserver/npm-mongoose-timestamp#67e521f1a25a2a21f25f7b74a7227ef36e0a8a7c"
+  }
+}
