@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.4.0": "github:Fankserver/npm-toml#d70ac7b34f479d1f97ceb3fa7c66d9e82e17e992"
+  }
+}
