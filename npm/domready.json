@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.8": "github:unional/typed-domready#881449d638c89897b1e70172ab5413b8886b4ef9"
+    "1.0.8": "github:typed-typings/npm-domready#f46b2ea5466978ea3bdd703591d1c16d7ae3832c"
   }
 }

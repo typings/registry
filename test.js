@@ -3,6 +3,7 @@ var glob = require('glob')
 var parse = require('parse-json')
 var readFile = require('fs').readFile
 var join = require('path').join
+var sep = require('path').sep
 var Batch = require('batch')
 var typings = require('typings')
 var arrify = require('arrify')
@@ -17,7 +18,8 @@ var typingsBatch = new Batch()
 var validate = ajv.compile(schema)
 var changedOnly = process.argv.indexOf('--changed') > -1
 var listFiles = process.argv.indexOf('--list') > -1
-var match = '{ambient,bower,common,github,npm}/**/*.json'
+var match = '{npm,github,bower,common,shared,lib,env,global}/**/*.json'
+var ambientSources = ['lib', 'env', 'global']
 
 filesBatch.concurrency(10)
 typingsBatch.concurrency(5)
@@ -73,6 +75,9 @@ function execFiles (files) {
   files.forEach(function (file) {
     filesBatch.push(function (done) {
       readFile(join(__dirname, file), 'utf8', function (err, contents) {
+        var parts = file.replace(/\.json$/i, '').split(sep)
+        var source = parts.shift()
+        var name = parts.join('/')
         var data
 
         if (err) {
@@ -88,7 +93,7 @@ function execFiles (files) {
         var valid = validate(data)
 
         if (!valid) {
-          return done(new Error('Invalid JSON for "' + file + '":\n' + ajv.errorsText(validate.errors)))
+          return done(new Error('Invalid JSON for "' + name + ' (' + source + ')":\n' + ajv.errorsText(validate.errors)))
         }
 
         // Push all typings installation tests into a batch executor.
@@ -97,8 +102,8 @@ function execFiles (files) {
             typingsBatch.push(function (done) {
               typings.installDependency(location, {
                 cwd: __dirname,
-                name: 'test',
-                ambient: /^ambient/.test(file)
+                name: name,
+                ambient: ambientSources.indexOf(source) > -1
               })
                 .then(function () {
                   return done()
