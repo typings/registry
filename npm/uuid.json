@@ -1,6 +1,10 @@
 {
 	"versions": {
+<<<<<<< e81d0f22b44b7b9da3a467eeddbf87e36245a620
 		"1.4.0": "github:rapropos/typed-node-uuid#a2ad36f2802416729eaad89559d76e0b03ba673c"
+=======
+		"1.4.0": "github:rapropos/typed-node-uuid#75540df1d026d5c09db1a6b8feba4edf071574d1"
+>>>>>>> uuid
 	}
 }
 
