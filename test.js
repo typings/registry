@@ -3,7 +3,6 @@ var glob = require('glob')
 var parse = require('parse-json')
 var readFile = require('fs').readFile
 var join = require('path').join
-var sep = require('path').sep
 var Batch = require('batch')
 var typings = require('typings')
 var arrify = require('arrify')
@@ -12,6 +11,7 @@ var Minimatch = require('minimatch').Minimatch
 var EOL = require('os').EOL
 var schema = require('./schema.json')
 
+var sep = '/'
 var ajv = new Ajv()
 var filesBatch = new Batch()
 var typingsBatch = new Batch()
