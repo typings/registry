@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.12.9": "github:tkqubo/typed-webpack#49876a3de79056dd978ea8a68f0cf17d7332826f"
+  }
+}
