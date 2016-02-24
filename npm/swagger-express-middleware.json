@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0-alpha.12": "github:tkqubo/typed-swagger-express-middleware#3d5a700d5a0fcf26fdb7de8695a30fb52325da7e"
+  }
+}
