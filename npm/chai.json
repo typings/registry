@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.4.0": "github:typed-typings/npm-chai#450bf667f66ae45b23e72bd836d2b44835413df0"
+  }
+}
