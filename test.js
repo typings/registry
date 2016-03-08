@@ -4,7 +4,7 @@ var parse = require('parse-json')
 var readFile = require('fs').readFile
 var join = require('path').join
 var Batch = require('batch')
-var typings = require('typings')
+var typings = require('typings-core')
 var arrify = require('arrify')
 var exec = require('child_process').exec
 var Minimatch = require('minimatch').Minimatch
@@ -100,7 +100,10 @@ function execFiles (files) {
         Object.keys(data.versions).forEach(function (version) {
           arrify(data.versions[version]).forEach(function (location) {
             typingsBatch.push(function (done) {
-              typings.installDependency(location, {
+              typings.installDependency({
+                name: name,
+                location: location
+              }, {
                 cwd: __dirname,
                 name: name,
                 ambient: ambientSources.indexOf(source) > -1
@@ -142,7 +145,7 @@ function execFiles (files) {
 function cbify (done) {
   return function (err, value) {
     if (err) {
-      console.error(err)
+      console.error(err.stack || err.message || err)
       process.exit(1)
     }
 
