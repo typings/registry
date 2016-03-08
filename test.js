@@ -7,7 +7,7 @@ var Batch = require('batch')
 var typings = require('typings-core')
 var arrify = require('arrify')
 var exec = require('child_process').exec
-var Minimatch = require('minimatch').Minimatch
+var minimatch = require('minimatch')
 var EOL = require('os').EOL
 var schema = require('./schema.json')
 
@@ -19,6 +19,7 @@ var validate = ajv.compile(schema)
 var changedOnly = process.argv.indexOf('--changed') > -1
 var listFiles = process.argv.indexOf('--list') > -1
 var match = '{npm,github,bower,common,shared,lib,env,global}/**/*.json'
+var exclude = '{.github/**,.gitignore,.travis.yml,package.json,README.md,schema.json,test.js}'
 var ambientSources = ['lib', 'env', 'global']
 
 filesBatch.concurrency(10)
@@ -26,8 +27,6 @@ typingsBatch.concurrency(5)
 
 if (changedOnly) {
   exec('git diff --name-status HEAD~1', cbify(function (stdout) {
-    var mm = new Minimatch(match)
-
     var files = stdout.trim().split(/\r?\n/g)
       .map(function (line) {
         return line.split('\t')
@@ -35,7 +34,7 @@ if (changedOnly) {
 
     // Check each line is a new, valid, addition.
     files.forEach(function (line) {
-      if (line[0] === 'A' && !mm.match(line[1])) {
+      if (!minimatch(line[1], match) && !minimatch(line[1], exclude)) {
         throw new TypeError('Invalid filename: ' + line[1])
       }
     })
@@ -43,7 +42,7 @@ if (changedOnly) {
     // Files to actually test are a subset of changed.
     var testFiles = files
       .filter(function (line) {
-        return line[0] !== 'D' && mm.match(line[1])
+        return line[0] !== 'D' && minimatch(line[1], match)
       })
       .map(function (line) {
         return line[1]
