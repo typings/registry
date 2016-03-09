@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "5.11.0": "github:bossqone/typings-codemirror-loadmode#1bb1da929f2405c55a67c7d2672639f241c9607e"
+  }
+}
