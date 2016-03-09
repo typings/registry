@@ -19,7 +19,7 @@ var validate = ajv.compile(schema)
 var changedOnly = process.argv.indexOf('--changed') > -1
 var listFiles = process.argv.indexOf('--list') > -1
 var match = '{npm,github,bower,common,shared,lib,env,global}/**/*.json'
-var exclude = '{.github/**,.gitignore,.travis.yml,package.json,README.md,schema.json,test.js}'
+var exclude = '{.github/**,.vscode/**,.gitignore,.travis.yml,package.json,README.md,schema.json,test.js}'
 var ambientSources = ['lib', 'env', 'global']
 
 filesBatch.concurrency(10)
