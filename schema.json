@@ -34,7 +34,8 @@
           "type": "object",
           "properties": {
             "compiler": {
-              "type": "string"
+              "type": "string",
+              "pattern": "^\\d+\\.\\d+\\.\\d+$"
             },
             "location": {
               "type": "string"
