@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "/npm/*.json",
+        "/npm/*/*.json",
+        "/github/*/*.json",
+        "/bower/*.json",
+        "/common/*.json",
+        "/shared/*.json",
+        "/lib/*.json",
+        "/env/*.json",
+        "/global/*.json"
+      ],
+      "url": "/schema.json"
+    }
+  ]
+}
