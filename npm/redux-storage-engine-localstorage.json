@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "1.0.1": "github:asvetliakov/typings-redux-storage-engine-localstorage#866700830567ed3e2f7c64654d101274369bd35c"
+    }
+}

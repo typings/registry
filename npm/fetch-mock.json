@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "4.1.1": "github:asvetliakov/typings-fetch-mock#1ffd9d9b28bd9411d9d651dc8b0e198534814cca"
+    }
+}

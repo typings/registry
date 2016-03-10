@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "0.4.0": "github:asvetliakov/typings-chai-enzyme#96c420f5edfcde80ddab10609fe00d3473d13cdb"
+    }
+}
