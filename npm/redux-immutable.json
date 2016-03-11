@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "3.0.6": "github:asvetliakov/typings-redux-immutable#138394e6fc7fcfed7be7cb950f55f74a69ddf319"
+    }
+}
