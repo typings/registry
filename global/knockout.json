@@ -1,0 +1,5 @@
+{ 
+    "versions": { 
+        "3.4.0": "github:typed-contrib/knockout/global.d.ts#75b7ad2efab6df7ac1a3da66e1dbe51c3d988577" 
+    } 
+} 
