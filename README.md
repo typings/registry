@@ -17,9 +17,10 @@ An up-to-date list of [typings requests](https://github.com/typings/registry/lab
 ## Creating Your Own Typings
 
 * Initialize a new repository (usually `typed-<package name>` to differentiate from your other projects)
-* Create a `typings.json` file, set `main` (and other valid options)
-* Make sure there's a license with your work
-* A README can help explain what people are looking at when they land on your repo
+* Use [generator-typings](https://github.com/typings/generator-typings) to generate the project, or manually:
+  * Create a `typings.json` file, set `main` (and other valid options)
+  * Make sure there's a license with your work
+  * A README can help explain what people are looking at when they land on your repo
 
 ## Structure
 
