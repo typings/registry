@@ -1,0 +1,5 @@
+{ 
+    "versions": { 
+        "2.0.0": "github:typed-contrib/mailchimp-api#4f95e1ce4582710911977675a2d235315bd612e0" 
+    } 
+} 
