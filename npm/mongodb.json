@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.1.0": "github:Think7/typings-mongodb#ae6749d1e3941b874c6e88b14d2ceed1b721d872"
+  }
+}
