@@ -1,0 +1,5 @@
+{ 
+    "versions": { 
+        "2.0.0": "github:typed-contrib/gaikan#8c1f686cea586380f04cdac4284a65f5bb2b3d70" 
+    }
+} 
