@@ -5,7 +5,7 @@
 ## Contributing
 
 1. Fork the project and run `npm install`
-2. Write a typings definition and upload to GitHub - here's an [example using debug](https://github.com/typed-typings/npm-debug/blob/master/typings.json)
+2. Write a typings definition and upload to GitHub - here's an [example using the npm's debug package](https://github.com/typed-typings/npm-debug/blob/master/typings.json)
 3. Use [semver](http://semver.org/) to specify the _minimum_ version the typing is valid for - here's [debug again](https://github.com/typings/registry/blob/master/npm/debug.json)
 4. Run `npm test` to check that the registry is valid, and make a pull request
 5. Once the pull request is merged, it is used as the canonical reference - `typings install debug`
