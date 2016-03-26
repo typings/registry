@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "4.0.0": "github:typed-contrib/opn#161427dd4311f9be347c956ef4e20a111a002034"
+    }
+}
