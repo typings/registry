@@ -1,7 +1,4 @@
 {
-  "name": "iscroll",
-  "main": "index.d.ts",
-  "browser": "index.d.ts",
   "versions": {
     "5.1.3": "github:StefanKoenen/npm-iscroll#234e9ed138d6ff683278180bfc8cc9ecfa02e281"
   }
