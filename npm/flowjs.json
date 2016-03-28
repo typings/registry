@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.10.1": "github:StefanKoenen/npm-flowjs#e040004ae512d30cc1159ea264eecefa089feb13"
+  }
+}
