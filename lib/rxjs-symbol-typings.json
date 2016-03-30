@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:david-driscoll/rxjs-symbol-typings#b06ca4cc670b9e0f2ace68a339dce38648e10e6c"
+  }
+}
