@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:typed-typings/typed-path-is-absolute#af1c7278caae66478dee117b69deae95f66af97a"
+  }
+}
