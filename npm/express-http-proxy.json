@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.6.0": "github:Fankserver/typings-npm-express-http-proxy#086ab728895aa8cce2acdd70005f3332ef98465a"
+  }
+}
