@@ -1,6 +1,5 @@
 {
   "versions": {
-    "3.2.1": "github:typed-typings/npm-bluebird#524d5cc66654fe7c8dcbccf90faeaa70588853a0",
-    "3.3.4": "github:louy/typed-bluebird#5c3bc4ba6445b240ee5802aa7f4fdc1960cca0ec"
+    "3.3.4": "github:typed-typings/npm-bluebird#77eac4699f99a55e465548ab7dc7639478d80659"
   }
 }
