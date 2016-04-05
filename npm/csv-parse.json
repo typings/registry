@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.2": "github:nashika/typed-csv-parse#b300d8674f93cfd70a02e5c45354d980a7179a2e"
+  }
+}

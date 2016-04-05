@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.37.4": "github:typed-typings/env-electron#8c09905e0adca19409654e2fd90bef629c6a9a59"
+  }
+}
