@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "4.0.0": "github:typed-typings/npm-lodash/global#e17b5e028baa7cc2400385c96c5a212b69c3756d"
+  }
+}
