@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.7.6": "github:alitaheri/immutable-unambient#c7987e0b221760db96efccdf37222d24ed87759e"
+  }
+}
