@@ -144,7 +144,7 @@ function execFiles (files) {
 function cbify (done) {
   return function (err, value) {
     if (err) {
-      console.error(err.stack || err.message || err)
+      console.error(err.toString())
       process.exit(1)
     }
 
