@@ -4,17 +4,27 @@
 
 ## Contributing
 
-1. Fork the project and run `npm install`
-2. Write a typings definition and upload to GitHub - here's an [example using the npm's debug package](https://github.com/typed-typings/npm-debug/blob/master/typings.json)
-3. Use [semver](http://semver.org/) to specify the _minimum_ version the typing is valid for - here's [debug again](https://github.com/typings/registry/blob/master/npm/debug.json)
-4. Run `npm test` to check that the registry is valid, and make a pull request
-5. Once the pull request is merged, it is used as the canonical reference - `typings install debug`
+### As package author
+
+You can create typings and distribute them with your NPM package. Check out how we can collaborate (if you need help) [in this issue](https://github.com/typings/typings/issues/322). The TypeScript team gives some additional help in [their handbook](https://www.typescriptlang.org/docs/handbook/typings-for-npm-packages.html), which entails creating a definition in external module format and linking to it from `package.json`. Feel free to ask questions!
+
+### Ask the author
+
+You can open an issue in the package's repository and ask if they'd be interested in providing a TypeScript definition for their users. If they are, you can link them to [this issue on collaborating](https://github.com/typings/typings/issues/322), in case they need a hand getting started.
+
+### Contribute yourself
+
+1. Fork the registry and run `npm install`
+2. Write a typings definition and upload to GitHub - here's an [example using NPM's `debug` package](https://github.com/typings/typed-debug/blob/master/typings.json)
+3. Use [semver](http://semver.org/) to specify the _minimum_ version the typings are valid for in the registry - here's [debug again](https://github.com/typings/registry/blob/master/npm/debug.json)
+4. Commit and run `npm test` to check that the registry is valid, make a pull request
+5. Once the pull request is merged, it will be used as the canonical reference - `typings install debug`
 
 ## Requests
 
 An up-to-date list of [typings requests](https://github.com/typings/registry/labels/typings%20request) are labelled in the registry.
 
-## Creating Your Own Typings
+## Creating Typings
 
 * Initialize a new repository (usually `typed-<package name>` to differentiate from your other projects)
 * Use [generator-typings](https://github.com/typings/generator-typings) to generate the project, or manually:
@@ -24,7 +34,7 @@ An up-to-date list of [typings requests](https://github.com/typings/registry/lab
 
 ## Structure
 
-The registry uses subdirectories to denote "sources". These sources are essentially mappings to package managers, and contain either ambient or external typings (depending on the "source").
+The registry uses subdirectories to denote "sources". These sources are essentially mappings to package managers, and contain either ambient or external module typings (depending on the "source").
 
 ```
 /<source>/<name>.json
