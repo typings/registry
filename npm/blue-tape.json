@@ -1,5 +1,6 @@
 {
   "versions": {
-    "0.1.0": "github:typed-typings/npm-blue-tape#3de9a90b45538efc80d9c87f4a51f99abb8e810b"
+    "0.1.0": "github:typed-typings/npm-blue-tape#3de9a90b45538efc80d9c87f4a51f99abb8e810b",
+    "0.2.0": "github:typed-typings/npm-blue-tape#9702bae77a610a625696fef90f9792ea7092e49e"
   }
 }
