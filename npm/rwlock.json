@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "5.0.0": "github:CaselIT/typings-rwlock#f3519a868b4a3a989e8376316b43b72b26d40e44"
+  }
+}
