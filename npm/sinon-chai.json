@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "2.8.0": "github:asvetliakov/typings-sinon-chai#682cac889ed0c16e51a02cafea42c471fbdd956c"
+    }
+}

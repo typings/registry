@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "4.0.3": "github:asvetliakov/typings-redux-form#ac1c12285fd089263801ad445c2a4f9c017b1088"
+    }
+}

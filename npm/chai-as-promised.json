@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "5.1.0": "github:asvetliakov/typings-chai-as-promised#06e0c2fef27801c64a2a03be52bc9235b7e8660d"
+    }
+}

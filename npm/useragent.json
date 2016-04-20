@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.1.8": "github:bcherny/typed-useragent#06c85b"
+  }
+}

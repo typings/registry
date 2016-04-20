@@ -1,24 +1,52 @@
 {
   "type": "object",
   "properties": {
+    "homepage": {
+      "type": "string"
+    },
     "versions": {
       "type": "object",
       "patternProperties": {
         "^\\d+\\.\\d+\\.\\d+(?:\\-[0-9A-Za-z-\\.]+)?(?:\\+[0-9A-Za-z-\\.]+)?$": {
           "oneOf": [
             {
-              "type": "string"
+              "$ref": "#/definitions/version"
             },
             {
               "type": "array",
               "items": {
-                "type": "string"
+                "$ref": "#/definitions/version"
               }
             }
           ]
         }
       },
       "additionalProperties": false
+    }
+  },
+  "definitions": {
+    "version": {
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "object",
+          "properties": {
+            "compiler": {
+              "type": "string",
+              "pattern": "^\\d+\\.\\d+\\.\\d+$"
+            },
+            "location": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
     }
   },
   "additionalProperties": false

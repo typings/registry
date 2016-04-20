@@ -1,0 +1,5 @@
+{ 
+    "versions": { 
+        "3.4.0": "github:typed-contrib/knockout/global/typings.json#fbd771e19ef43922e386024e032396a3c7e8b3f0" 
+    } 
+} 

@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "4.0.0": "github:asvetliakov/typings-redux-storage#f4dfaf7483baec13c7bc94c7ddcf4b7cc45dd311"
+    }
+}

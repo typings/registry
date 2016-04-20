@@ -1,5 +1,6 @@
 {
   "versions": {
-    "0.3.1": "github:hodavidhara/griddle-react-typings#d1342836b24f5141d8a72550ce8dcf0079371241"
+    "0.3.1": "github:hodavidhara/griddle-react-typings#da0112efe87021b4527384d39ad063ac5ec21d95",
+    "0.4.0": "github:hodavidhara/griddle-react-typings#6dfbdc9b0f8570ad1984df3709cfe379abb51661"
   }
 }

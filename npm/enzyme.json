@@ -1,0 +1,6 @@
+{
+    "versions": {
+        "2.0.0": "github:asvetliakov/typings-enzyme#7945a88933fe94997d1b03258c954a104f3e1478",
+        "2.2.0": "github:asvetliakov/typings-enzyme#da15db2a4042e3b1f454aebdec9484e51de46c0a"
+    }
+}   

@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "1.0.0": "github:asvetliakov/typings-redux-storage-merger-immutablejs#cf51e9c876cc38f3b93f72aaecb91122abc33f26"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "1.1.1": "github:asvetliakov/typings-redux-storage-decorator-filter#11a98283f5571d122ed597fbcad08cb63205a6a9"
+    }
+}

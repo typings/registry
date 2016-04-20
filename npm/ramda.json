@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "0.19.1": "github:enriched/typed-ramda#413395cd890d7f3236ced0a9718da9a3869840ec"
+    }
+}

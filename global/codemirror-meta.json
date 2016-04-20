@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "5.11.0": "github:bossqone/typings-codemirror-meta#1498562af8c181bb17c7edb61564c34c851f0789"
+  }
+}

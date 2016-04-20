@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.0.3": "github:adamball/typed-jasmine-node-promise-matchers#139a84fa30e3edfa40197a16a50ec5c029991a07"
+  }
+}
