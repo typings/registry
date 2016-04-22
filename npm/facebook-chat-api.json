@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "1.1.0": "github:insa-frif/typed-facebook-chat-api#db2780ef99705af4d568230c16893f3ea52d372c"
+    }
+}
