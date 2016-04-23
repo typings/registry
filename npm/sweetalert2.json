@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.3.0": "github:StefanKoenen/typed-sweetalert2#3515ba54463eda307c77cddfa29eb3366aaf4147"
+  }
+}
