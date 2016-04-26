@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.3.0": "github:demurgos/typed-js-sha256#ce991a5c69d819c4ee7a6de223b1233d2bf16fb7"
+  }
+}
