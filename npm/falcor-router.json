@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.4.0": "github:typed-typings/npm-falcor-router#f99f07aa11fa09308a0cebe0116ef613f80e0a31"
+  }
+}
