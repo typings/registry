@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.8.3": "github:jgoz/typed-nvd3#c3f5cf63b9f6f9dd086d7bb785a2b522dfaae7d0"
+  }
+}
