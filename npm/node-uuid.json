@@ -1,6 +1,7 @@
 {
-	"versions": {
-		"1.4.0": "github:rapropos/typed-node-uuid#a2ad36f2802416729eaad89559d76e0b03ba673c"
-	}
+  "versions": {
+    "1.4.7": "github:typed-typings/typed-node-uuid#da463c922b29d52acf3dd802435426e322af314f",
+    "1.4.0": "github:typed-typings/typed-node-uuid#a2ad36f2802416729eaad89559d76e0b03ba673c"
+  }
 }
 
