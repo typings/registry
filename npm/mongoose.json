@@ -1,3 +1,5 @@
 {
-  "4.3.5": "github:louy/typed-mongoose#0e81218c59476fc0d95efb5ddd560a4b8d4d807d"
+  "versions": {
+    "4.3.5": "github:louy/typed-mongoose#0e81218c59476fc0d95efb5ddd560a4b8d4d807d"
+  }
 }
