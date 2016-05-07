@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.6.15": "github:Demurgos/typed-big-integer#48689e49d3de3c500a549361fd132a6ad8af0954"
+  }
+}
