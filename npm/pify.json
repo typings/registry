@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.3.0": "github:cyounkins/typed-pify#d2e231b233884fe46ca5e65f670c0da8cbba1866"
+  }
+}
