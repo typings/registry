@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:101100/typed-i2c-bus#3af7588bedbac004de1bd65b445381bf6268e7f4"
+  }
+}
