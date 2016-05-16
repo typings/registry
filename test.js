@@ -20,7 +20,7 @@ var changedOnly = process.argv.indexOf('--changed') > -1
 var listFiles = process.argv.indexOf('--list') > -1
 var match = '{npm,github,bower,common,shared,lib,env,global}/**/*.json'
 var exclude = '{.github/**,.vscode/**,.gitignore,.travis.yml,package.json,README.md,schema.json,test.js}'
-var ambientSources = ['lib', 'env', 'global']
+var globalSources = ['lib', 'env', 'global']
 
 filesBatch.concurrency(10)
 typingsBatch.concurrency(5)
@@ -105,7 +105,7 @@ function execFiles (files) {
               }, {
                 cwd: __dirname,
                 name: name,
-                ambient: ambientSources.indexOf(source) > -1
+                global: globalSources.indexOf(source) > -1
               })
                 .then(function () {
                   return done()
