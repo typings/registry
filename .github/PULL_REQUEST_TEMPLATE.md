@@ -4,7 +4,7 @@
 
 * [ ] Does the README explain the purpose and a link to the typed source?
 * [ ] Do the typings follow the source structure?
-* [ ] Are they correctly external or ambient modules?
+* [ ] Are they correctly external or global modules?
 
 **Change Summary (for existing typings):**
 
