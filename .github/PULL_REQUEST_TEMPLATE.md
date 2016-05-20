@@ -3,7 +3,7 @@
 **Questions (for new typings):**
 
 * [ ] Does the README explain the purpose and a link to the typed source?
-* [ ] Do the typings follow the source structure?
+* [ ] Do the typings follow the source structure (e.g. `index.js` <-> `index.d.ts`)?
 * [ ] Are they correctly external or global modules?
 
 **Change Summary (for existing typings):**
