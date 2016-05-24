@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "6.3.0": "github:cyounkins/typed-got#2f028332ff010691c65c0e63e86f0d68c83ef674"
+  }
+}
