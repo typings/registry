@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.5.5": "github:typed-typings/npm-mpromise#a3585faef66f665f3af6ad4e773bbdd35b50a6a9"
+  }
+}
