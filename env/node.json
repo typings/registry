@@ -4,6 +4,13 @@
     "0.10.0": "github:typed-typings/env-node/0.10#a36ce8a19f93da8798bf06e11ee34fd823e0b185",
     "0.11.0": "github:typed-typings/env-node/0.11#a36ce8a19f93da8798bf06e11ee34fd823e0b185",
     "0.12.0": "github:typed-typings/env-node/0.12#a36ce8a19f93da8798bf06e11ee34fd823e0b185",
-    "4.0.0": "github:typed-typings/env-node/4#a36ce8a19f93da8798bf06e11ee34fd823e0b185"
+    "4.0.0": [
+      "github:typed-typings/env-node/4#a36ce8a19f93da8798bf06e11ee34fd823e0b185",
+      {
+        "compiler": "1.9.0",
+        "description": "For TypeScript 1.9",
+        "location": "github:typed-typings/env-node/4#10050df9e714121f730974cbaa7919215e158fa0"
+      }
+    ]
   }
 }
