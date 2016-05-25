@@ -96,11 +96,16 @@ function execFiles (files) {
 
         // Push all typings installation tests into a batch executor.
         Object.keys(data.versions).forEach(function (version) {
-          arrify(data.versions[version]).forEach(function (location) {
+          arrify(data.versions[version]).forEach(function (info) {
+            // Handle plain string locations.
+            if (typeof info === 'string') {
+              info = { location: info }
+            }
+
             typingsBatch.push(function (done) {
               typings.installDependency({
                 name: name,
-                location: location.location || location
+                location: info.location
               }, {
                 cwd: __dirname,
                 name: name,
