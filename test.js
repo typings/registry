@@ -24,7 +24,6 @@ var globalSources = ['lib', 'env', 'global']
 
 filesBatch.concurrency(10)
 typingsBatch.concurrency(5)
-
 if (changedOnly) {
   exec('git diff --name-status HEAD~1', cbify(function (stdout) {
     var files = stdout.trim().split(/\r?\n/g)
@@ -101,7 +100,7 @@ function execFiles (files) {
             typingsBatch.push(function (done) {
               typings.installDependency({
                 name: name,
-                location: location
+                location: location.location || location
               }, {
                 cwd: __dirname,
                 name: name,
