@@ -1,0 +1,5 @@
+{ 
+    "versions": { 
+        "0.2.20": "github:typed-contrib/jimp#54fdabe612ec0443d01f84b71efeeb9b101fbb9c" 
+    } 
+} 
