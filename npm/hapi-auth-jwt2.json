@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "7.0.0": "github:warrenseymour/typed-hapi-auth-jwt2#f07b86ef65ad4204b7002312104e11a4a00543a5"
+  }
+}
