@@ -1,6 +1,6 @@
 {
   "versions": {
     "4.4.4": "github:goenning/typed-pg#83236e7c54254e5e4135efc79280c91d3ba2d819",
-    "4.5.1": "github:goenning/typed-pg#aeca2e789ef871852ee9f27e34f4f451d61dc82e"
+    "4.5.1": "github:goenning/typed-pg#7923899b5d2eebcaf21873f446084c15836848fb"
   }
 }
