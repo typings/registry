@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "6.3.2": "github:typed-typings/npm-atom-keymap#93c09094564c6b9cac47b54df38f4ac4e4a28e38"
+  }
+}
