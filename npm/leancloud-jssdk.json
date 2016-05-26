@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0-rc8": "github:leancloud/typed-leancloud-jssdk#fc9730eead531f6461b0d0ae4323263b3e498798"
+  }
+}
