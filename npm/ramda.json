@@ -1,5 +1,6 @@
 {
     "versions": {
-        "0.19.1": "github:enriched/typed-ramda#413395cd890d7f3236ced0a9718da9a3869840ec"
+        "0.19.1": "github:enriched/typed-ramda#413395cd890d7f3236ced0a9718da9a3869840ec",
+        "0.21.0": "github:donnut/typescript-ramda#1f34042ea566d64214d7c01534ad805604e9cff2"
     }
 }

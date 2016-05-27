@@ -1,0 +1,6 @@
+{
+  "homepage": "https://github.com/limonte/sweetalert2",
+  "versions": {
+    "1.3.0": "github:StefanKoenen/typed-sweetalert2#d6876d41c373fff49791b81125cb366ff1965e2d"
+  }
+}

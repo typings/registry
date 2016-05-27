@@ -1,6 +1,13 @@
-Filling in these fields will make it easier for us to review:
+**Typings URL:** <!-- Paste URL here -->
 
-Typings URL: [E.g. http://github.com/typed-typings/npm-debug]
-Source URL: [E.g. https://github.com/visionmedia/debug]
+**Questions (for new typings):**
 
-Thanks for contributing!
+* [ ] Does the README explain the purpose and a link to the typed source?
+* [ ] Do the typings follow the source structure (e.g. `index.js` <-> `index.d.ts`)?
+* [ ] Are they correctly external or global modules?
+
+**Change Summary (for existing typings):**
+
+<!-- Type or link a brief summary of changes -->
+
+Thanks for contributing! This information helps us and the community stay in sync.

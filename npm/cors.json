@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.7.0": "github:typed-typings/npm-cors#fa590440440b39035489f32562f18e8401358463"
+  }
+}

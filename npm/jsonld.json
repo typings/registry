@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.4.0": "github:tpluscode/jsonld-typings#39e4819b05ab05c3e79d56c6bb64c48fab6c04a6"
+  }
+}
