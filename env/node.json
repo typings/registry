@@ -1,9 +1,16 @@
 {
   "versions": {
-    "0.8.0": "github:typed-typings/env-node/0.8#8feb3e2f7099efe714d44ef95562d4fba7a671c5",
-    "0.10.0": "github:typed-typings/env-node/0.10#8feb3e2f7099efe714d44ef95562d4fba7a671c5",
-    "0.11.0": "github:typed-typings/env-node/0.11#8feb3e2f7099efe714d44ef95562d4fba7a671c5",
-    "0.12.0": "github:typed-typings/env-node/0.12#8feb3e2f7099efe714d44ef95562d4fba7a671c5",
-    "4.0.0": "github:typed-typings/env-node/4#8feb3e2f7099efe714d44ef95562d4fba7a671c5"
+    "0.8.0": "github:typed-typings/env-node/0.8#a36ce8a19f93da8798bf06e11ee34fd823e0b185",
+    "0.10.0": "github:typed-typings/env-node/0.10#a36ce8a19f93da8798bf06e11ee34fd823e0b185",
+    "0.11.0": "github:typed-typings/env-node/0.11#a36ce8a19f93da8798bf06e11ee34fd823e0b185",
+    "0.12.0": "github:typed-typings/env-node/0.12#a36ce8a19f93da8798bf06e11ee34fd823e0b185",
+    "4.0.0": [
+      "github:typed-typings/env-node/4#a36ce8a19f93da8798bf06e11ee34fd823e0b185",
+      {
+        "compiler": "1.9.0",
+        "description": "For TypeScript 1.9",
+        "location": "github:typed-typings/env-node/4#10050df9e714121f730974cbaa7919215e158fa0"
+      }
+    ]
   }
 }

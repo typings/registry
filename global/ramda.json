@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.21.0": "github:donnut/typescript-ramda/global#1f34042ea566d64214d7c01534ad805604e9cff2"
+  }
+}
