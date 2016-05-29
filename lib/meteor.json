@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.3.0": "github:meteor-typings/meteor/1.3#64f0d62cb163049fd2c04c71ac1a8402b4ff6c9e"
+  }
+}
