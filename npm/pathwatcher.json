@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "6.5.0": "github:typed-typings/npm-pathwatcher#0ee48f0141fdfa242e0182b7f0c217133a7d3b59"
+  }
+}
