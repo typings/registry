@@ -24,6 +24,12 @@ You can open an issue in the package's repository and ask if they'd be intereste
 
 An up-to-date list of [typings requests](https://github.com/typings/registry/labels/typings%20request) are labelled in the registry.
 
+## Links
+
+* If you'd like to help review PRs to the registry, see [this issue](https://github.com/typings/registry/issues/70)
+* If you're wondering how you can write tests for your typings, see [this issue](https://github.com/typings/registry/issues/150)
+* If you'd like to help collaborate on [`typed-typings`](https://github.com/typed-typings), see [this issue](https://github.com/typings/registry/issues/480)
+
 ## Creating Typings
 
 * Initialize a new repository (usually `typed-<package name>` to differentiate from your other projects)
@@ -47,9 +53,9 @@ Where "source" is one of:
 * **bower** for [Bower](http://bower.io/) dependencies (external)
 * **common** for "standard" JS libraries without a "source" (external)
 * **shared** for shared library functionality (external)
-* **lib** for shared environment functionality (ambient)
-* **env** for programming environment typings (ambient)
-* **global** for global libraries (ambient)
+* **lib** for shared environment functionality (global)
+* **env** for programming environment typings (global)
+* **global** for global libraries (global)
 
 And "name" is the name of the package from the source. For GitHub and scoped NPM packages, it's valid to make a folder such as `@example/entry.json`. The schema for package files is described using JSON schema in [`schema.json`](schema.json).
 
