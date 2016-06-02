@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:typed-typings/npm-node-noop#261caedb35b26265d8dc51aed696bf4d0025506c"
+  }
+}
