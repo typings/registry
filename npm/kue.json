@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.11.0": "github:typed-typings/npm-kue#a26a8151fd1b016e5a71719bd849b954133884c3"
+  }
+}
