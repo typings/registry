@@ -1,7 +1,7 @@
 {
   "versions": {
     "3.8.0": "github:typed-typings/npm-gulp#504da08753acdfe9dd2c415ab8fe36151e9645c1",
-    "3.9.1": "github:QuatroTypings/npm-gulp/3.9.1#03dcd625bd352aec00ece67e54acf40df13f3743",
-    "4.0.0-alpha.2": "github:QuatroTypings/npm-gulp/4.0.0-alpha.2#03dcd625bd352aec00ece67e54acf40df13f3743"
+    "3.9.1": "github:QuatroTypings/npm-gulp/3.9.1#a5c4542339854ac2adf6f1f009419a3274f6e71d",
+    "4.0.0-alpha.2": "github:QuatroTypings/npm-gulp/4.0.0-alpha.2#a5c4542339854ac2adf6f1f009419a3274f6e71d"
   }
 }
