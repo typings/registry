@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:leancloud/typed-leancloud-storage#a163347f38c090af0b86408cf6976cf97831e3c4"
+  }
+}
