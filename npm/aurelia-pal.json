@@ -1,5 +1,6 @@
 {
   "versions": {
-    "1.0.0-beta.1.2.0": "github:typed-typings/npm-aurelia-pal#b75df0b87f5a150243a6fa02bb1c5f30521fa026"
+    "1.0.0-beta.1.2.0": "github:typed-typings/npm-aurelia-pal#b75df0b87f5a150243a6fa02bb1c5f30521fa026",
+    "1.0.0-beta.1.2.2": "github:typed-typings/npm-aurelia-pal#fe2a8c625bf60482c143ee039f866c49a8b03f90"
   }
 }
