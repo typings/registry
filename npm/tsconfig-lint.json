@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.11.0": "github:QuatroTypings/npm-tsconfig-lint/0.11.0#ca5903a97e151ad697165e19ee494fdff7de429b"
+  }
+}
