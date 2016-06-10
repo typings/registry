@@ -1,5 +1,6 @@
 {
   "versions": {
-    "1.0.0": "github:protectator/league-typedef#e2e171fde1587f3f4b92659641e2a45737ac98b0"
+    "1.0.0": "github:protectator/league-typedef#e2e171fde1587f3f4b92659641e2a45737ac98b0",
+    "1.1.0": "github:protectator/league-typedef#fdee9ce316c517b706deb60da51089cf5a37cf05"
   }
 }
