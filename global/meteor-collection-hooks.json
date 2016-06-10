@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.8.1": "github:twastvedt/typed-meteor-collection-hooks#ee2ca3c6f77c2f8235ae7fe1455f364bdcab7d2e"
+  }
+}
