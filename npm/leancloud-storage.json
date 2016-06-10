@@ -1,5 +1,6 @@
 {
   "versions": {
-    "1.0.0": "github:leancloud/typed-leancloud-storage#a163347f38c090af0b86408cf6976cf97831e3c4"
+    "1.0.0": "github:leancloud/typed-leancloud-storage#a163347f38c090af0b86408cf6976cf97831e3c4",
+    "1.0.1-rc.1":"github:leancloud/typed-leancloud-storage#f1eaaf905249b90c2cfc179c0adaa3283d5d14d8"
   }
 }
