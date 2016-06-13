@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "0.7.1": "github:whenther/typed-chai-spies#e8c648250e2fab1e1af54b0bb684ccd44d19cab8"
+    }
+}
