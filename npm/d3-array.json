@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.8.1": "github:iamssen/typings-d3/d3-array#26fd3e826e4783a6b49615baff43547161b34bd0"
+  }
+}
