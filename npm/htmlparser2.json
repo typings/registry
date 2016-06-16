@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.9.0": "github:typed-typings/npm-htmlparser2#23d1783b0983d7af0a2dd22bcedd9cf853119317"
+  }
+}
