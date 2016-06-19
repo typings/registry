@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.4.0-beta": "github:EricPMulligan/typed-jsonapi-datastore#01671e723f84e16c28bfca893cd8a84be74a89c1"
+  }
+}
