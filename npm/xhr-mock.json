@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.6.0": "github:effervescentia/typed-xhr-mock#32d2bc6d4fada67d86e029b66e214450b2766196"
+  }
+}

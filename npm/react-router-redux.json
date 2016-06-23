@@ -1,5 +1,6 @@
 {
   "versions": {
-    "3.0.0": "github:andrew-w-ross/typings-react-router-redux#7fece514b8d3de4a86f65104e0f7636a0f48046e"
+    "3.0.0": "github:andrew-w-ross/typings-react-router-redux#7fece514b8d3de4a86f65104e0f7636a0f48046e",
+    "4.0.0": "github:andrew-w-ross/typings-react-router-redux#caf792cb79efbf54ce328366809dc52821192a73"
   }
 }

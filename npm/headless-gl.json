@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "4.0.1": "github:jThreeJS/typed-headless-gl#a01e89380a0192b37e7e027a564618dd67ef83f4"
+  }
+}

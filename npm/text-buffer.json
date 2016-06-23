@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "9.1.0": "github:typed-typings/npm-text-buffer#5f6832aa04fc0f0634c216a9d0a88c3701a7e8fd"
+  }
+}

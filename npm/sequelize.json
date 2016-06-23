@@ -1,5 +1,5 @@
 {
   "versions": {
-    "3.0.0": "github:louy/typed-sequelize#53b958f06fb6f881fe89cd08742b665b8022b5d6"
+    "3.0.0": "github:louy/typed-sequelize#fc17dae293de0d15ccdfce2cfe827e2a789eb5a4"
   }
 }

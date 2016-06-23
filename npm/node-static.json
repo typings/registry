@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.7.7": "github:effervescentia/typed-node-static#29ac1643342e18968ecf1a4ce0bca8c0f9055324"
+  }
+}
