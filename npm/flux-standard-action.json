@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.6.1": "github://typed-typings/npm-flux-standard-action#1db7005c857f2d9393e041fa4bb3c6422299e5bc"
+    "0.6.1": "github:typed-typings/npm-flux-standard-action#1db7005c857f2d9393e041fa4bb3c6422299e5bc"
   }
 }
