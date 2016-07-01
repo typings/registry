@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.3.0": "github:iamssen/typings-d3/d3-hierarchy#3037a39db8c56514a3bea75e92505975f2264ba9"
+    "1.0.0": "github:iamssen/typings-d3/d3-hierarchy#5f8424f79a47abdef36799e51cc55a6c413af01f"
   }
 }
