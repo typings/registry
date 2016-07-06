@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0-rc": "github:vuejs/vuex/types#645bb9c46d5ca5bc3c991a35107d6142080e1e7f"
+    "1.0.0-rc.2": "github:vuejs/vuex/types#eca13a5b8223296ff0eebfd7efd9bd9509e364a8"
   }
 }
