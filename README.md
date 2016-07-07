@@ -20,9 +20,13 @@ You can open an issue in the package's repository and ask if they'd be intereste
 4. Commit and run `npm test` to check that the registry is valid, make a pull request
 5. Once the pull request is merged, it will be used as the canonical reference - `typings install debug`
 
-## Requests
+## Links
 
-An up-to-date list of [typings requests](https://github.com/typings/registry/labels/typings%20request) are labelled in the registry.
+* Typings requests are labelled with [`typings request`](https://github.com/typings/registry/labels/typings%20request) in the issues
+* If you'd like to help review PRs to the registry, see [#70](https://github.com/typings/registry/issues/70) to help out
+* If you're wondering how to write tests for your typings, see [#150](https://github.com/typings/registry/issues/150)
+* If you'd like to help collaborate on [`typed-typings`](https://github.com/typed-typings), see [#480](https://github.com/typings/registry/issues/480) so we can collaborate
+* If you'd like to lint your definitions, try [`tslint-config-typings`](https://github.com/typings/tslint-config-typings)
 
 ## Creating Typings
 
@@ -47,9 +51,9 @@ Where "source" is one of:
 * **bower** for [Bower](http://bower.io/) dependencies (external)
 * **common** for "standard" JS libraries without a "source" (external)
 * **shared** for shared library functionality (external)
-* **lib** for shared environment functionality (ambient)
-* **env** for programming environment typings (ambient)
-* **global** for global libraries (ambient)
+* **lib** for shared environment functionality (global)
+* **env** for programming environment typings (global)
+* **global** for global libraries (global)
 
 And "name" is the name of the package from the source. For GitHub and scoped NPM packages, it's valid to make a folder such as `@example/entry.json`. The schema for package files is described using JSON schema in [`schema.json`](schema.json).
 

@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.0.0": "github:typed-typings/npm-event-kit#3ad17c029eb8899b613cdf8229964e67fb19cef7"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:iamssen/typings-d3/d3-polygon#ca915309a50ed4826b5b3e273f119b5caf0acea4"
+  }
+}

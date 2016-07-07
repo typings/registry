@@ -24,7 +24,6 @@ var globalSources = ['lib', 'env', 'global']
 
 filesBatch.concurrency(10)
 typingsBatch.concurrency(5)
-
 if (changedOnly) {
   exec('git diff --name-status HEAD~1', cbify(function (stdout) {
     var files = stdout.trim().split(/\r?\n/g)
@@ -97,11 +96,16 @@ function execFiles (files) {
 
         // Push all typings installation tests into a batch executor.
         Object.keys(data.versions).forEach(function (version) {
-          arrify(data.versions[version]).forEach(function (location) {
+          arrify(data.versions[version]).forEach(function (info) {
+            // Handle plain string locations.
+            if (typeof info === 'string') {
+              info = { location: info }
+            }
+
             typingsBatch.push(function (done) {
               typings.installDependency({
                 name: name,
-                location: location
+                location: info.location
               }, {
                 cwd: __dirname,
                 name: name,

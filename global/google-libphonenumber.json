@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "1.0.22": "github:mrshaq/typed-google-libphonenumber#509c353ce18df06da5e073881203a1b444cb57ca"
+    }
+}

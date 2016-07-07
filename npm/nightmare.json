@@ -1,0 +1,6 @@
+{
+  "versions": {
+    "2.4.1": "github:JumpeiArashi/typed-nightmare#e349cf5fb04f5edcdfb4dc730a36c4a93af6cacf",
+    "2.5.0": "github:JumpeiArashi/typed-nightmare#d46ff2fa4712ff5387fba564c5e2f577b0555862"
+  }
+}

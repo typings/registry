@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "0.10.0": "github:typed-contrib/azure-storage-node#e709e52170ddd262c091dc95d85496c704a583c5"
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:iamssen/typings-d3/d3-transition#5f8424f79a47abdef36799e51cc55a6c413af01f"
+  }
+}
