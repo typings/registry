@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.1.1": "github:twastvedt/typed-meteor-rest#270ebddf64497f73cc32426e78f11cd9e9fc7f63"
+  }
+}
