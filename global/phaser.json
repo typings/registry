@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.6.0": "github:photonstorm/phaser/typescript#f2daaec98c095c9b9e4279a618171b051756b895"
+  }
+}
