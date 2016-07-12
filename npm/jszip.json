@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.0.0": "github:sebastianhaas/typed-jszip#f9e3b8f58dbfe47cc14fecfd012ae55d3f8961bd"
+  }
+}
