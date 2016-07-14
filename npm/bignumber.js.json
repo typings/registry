@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.3.0": "github:felixfbecker/typed-bignumber.js#d93c7452a6d8a11c9f01b2c410a7b13cd6859927"
+  }
+}
