@@ -1,5 +1,5 @@
 {
     "versions": {
-        "0.8.4": "github:Microsoft/typed-vsts-task-lib#31271b6079c174e734e927a9d82a8495ddea59af"
+        "0.9.0": "github:Microsoft/typed-vsts-task-lib#3f17c01c52a13c4c2ba0701082f2759636769697"
     }
 }
