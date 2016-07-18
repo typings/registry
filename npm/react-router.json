@@ -1,6 +1,6 @@
 {
   "versions": {
-    "2.4.0": "github:typed-typings/npm-react-router#5d1691d5406392867926587830c2b20645eabd46",
+    "2.4.0": "github:typed-typings/npm-react-router#617e37e4db7f1f5e0a8118ea38417d6cc24c52c2",
     "2.0.0": "github:andrew-w-ross/typings-react-router#a0a05453b3a44181a38a3c61cb6c0fd631ebcf6f"
   }
 }
