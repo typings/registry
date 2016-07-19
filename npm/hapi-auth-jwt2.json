@@ -1,5 +1,5 @@
 {
   "versions": {
-    "7.0.0": "github:warrenseymour/typed-hapi-auth-jwt2#f07b86ef65ad4204b7002312104e11a4a00543a5"
+    "7.0.0": "github:warrenseymour/typed-hapi-auth-jwt2#b80e4178e2ba0ef42219a5e13c39b270aeaf9ed2"
   }
 }
