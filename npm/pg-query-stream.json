@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:sweetiq/npm-pg-query-stream#a99374eceff20bc62eb9b4561adc1e6a31d1e044"
+  }
+}
