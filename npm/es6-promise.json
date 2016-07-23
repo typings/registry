@@ -1,5 +1,5 @@
 {
   "versions": {
-    "3.0.0": "github:typed-typings/npm-es6-promise#fb04188767acfec1defd054fc8024fafa5cd4de7"
+    "3.0.0": "github:types/npm-es6-promise#fb04188767acfec1defd054fc8024fafa5cd4de7"
   }
 }

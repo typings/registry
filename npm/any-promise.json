@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:typed-typings/npm-any-promise#17e3625f149665a0c20b818f3a772f56e6d746b7"
+    "1.0.0": "github:types/npm-any-promise#17e3625f149665a0c20b818f3a772f56e6d746b7"
   }
 }

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:typed-typings/npm-strip-bom#d1d42e7f43dcd9fce1cfd988c40421a1d37fa47b"
+    "2.0.0": "github:types/npm-strip-bom#d1d42e7f43dcd9fce1cfd988c40421a1d37fa47b"
   }
 }

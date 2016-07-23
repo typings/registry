@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:typed-typings/npm-string-template#4620eee24201636ca45e6dbc2505066703c770da"
+    "1.0.0": "github:types/npm-string-template#4620eee24201636ca45e6dbc2505066703c770da"
   }
 }

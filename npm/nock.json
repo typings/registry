@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.7.0": "github:typed-typings/npm-nock#3bf74830ecc8cca4272e3e87dff7c753997067f9"
+    "0.7.0": "github:types/npm-nock#3bf74830ecc8cca4272e3e87dff7c753997067f9"
   }
 }

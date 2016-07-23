@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:typed-typings/npm-array-uniq#fe1767e9b1baa0fd9f7a55fbcbf2fd8f08296d42"
+    "1.0.0": "github:types/npm-array-uniq#fe1767e9b1baa0fd9f7a55fbcbf2fd8f08296d42"
   }
 }

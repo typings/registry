@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.1": "github:typed-typings/npm-node-teamspeak#fd84297b37aa18517360a8d3c3af5bda8a1a5a25"
+    "1.0.1": "github:types/npm-node-teamspeak#fd84297b37aa18517360a8d3c3af5bda8a1a5a25"
   }
 }

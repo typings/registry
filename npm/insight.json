@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.7.0": "github:typed-typings/npm-insight#f029807dab2d43d9a398a29fd81312a6c192c85a"
+    "0.7.0": "github:types/npm-insight#f029807dab2d43d9a398a29fd81312a6c192c85a"
   }
 }

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:typed-typings/npm-object.omit#562d5647245d1656a8b5e38da475fdf882c9e14e"
+    "2.0.0": "github:types/npm-object.omit#562d5647245d1656a8b5e38da475fdf882c9e14e"
   }
 }
