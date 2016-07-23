@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:typed-typings/global-http-status-codes#ec8b7eaa11ff2a3accf156aef513265750885388"
+  }
+}
