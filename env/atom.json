@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.6.0": "github:typed-typings/env-atom#7582c188a2567744ea471e352e650c4f0ea3259a"
+    "1.6.0": "github:types/env-atom#7582c188a2567744ea471e352e650c4f0ea3259a"
   }
 }

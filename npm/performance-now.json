@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.2.0": "github:typed-typings/npm-performance-now#ed7c5ff99d89f4e1ab68fef6bdeb4d5e947247f8"
+    "0.2.0": "github:types/npm-performance-now#ed7c5ff99d89f4e1ab68fef6bdeb4d5e947247f8"
   }
 }

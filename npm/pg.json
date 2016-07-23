@@ -1,7 +1,7 @@
 {
   "versions": {
-    "4.4.4": "github:typed-typings/typed-pg#83236e7c54254e5e4135efc79280c91d3ba2d819",
-    "4.5.1": "github:typed-typings/typed-pg#cadcb87875c39a59cd6d4f09ff9b2eac5e44370b",
-    "6.0.2": "github:typed-typings/typed-pg#7e1518cf1053321fc117ba91fa55b05aac626937"
+    "4.4.4": "github:types/typed-pg#83236e7c54254e5e4135efc79280c91d3ba2d819",
+    "4.5.1": "github:types/typed-pg#cadcb87875c39a59cd6d4f09ff9b2eac5e44370b",
+    "6.0.2": "github:types/typed-pg#7e1518cf1053321fc117ba91fa55b05aac626937"
   }
 }

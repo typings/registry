@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.5.0": "github:typed-typings/npm-columnify#855f119ac0310bc0dc924b7c26dc1426e2aa43a5"
+    "1.5.0": "github:types/npm-columnify#855f119ac0310bc0dc924b7c26dc1426e2aa43a5"
   }
 }

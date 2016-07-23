@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:typed-typings/npm-indent-string#9d6fef8eeccf2b9d9690b29b9730635ccef1b43c"
+    "2.0.0": "github:types/npm-indent-string#9d6fef8eeccf2b9d9690b29b9730635ccef1b43c"
   }
 }

@@ -1,6 +1,6 @@
 {
   "versions": {
-    "0.11.0": "github:typed-typings/npm-inquirer#c037ce26b55827d40ace78ffeba5c43ec7fb74fb",
-    "1.0.0": "github:typed-typings/npm-inquirer#5da55e45ae8248194cfebc8191d540f2202ad8cb"
+    "0.11.0": "github:types/npm-inquirer#c037ce26b55827d40ace78ffeba5c43ec7fb74fb",
+    "1.0.0": "github:types/npm-inquirer#5da55e45ae8248194cfebc8191d540f2202ad8cb"
   }
 }

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.40.0": "github:typed-typings/npm-pretty-data#85742bb61b654848ca2070be3eb065d51a863ccf"
+    "0.40.0": "github:types/npm-pretty-data#85742bb61b654848ca2070be3eb065d51a863ccf"
   }
 }

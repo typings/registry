@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:typed-typings/npm-split#900a8ae7efe14cc2196b2a60e9ef2aad85c6f1c2"
+    "1.0.0": "github:types/npm-split#900a8ae7efe14cc2196b2a60e9ef2aad85c6f1c2"
   }
 }

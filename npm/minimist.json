@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:typed-typings/npm-minimist#0c33a5295558682de03596f7896338f21d03f839"
+    "1.0.0": "github:types/npm-minimist#0c33a5295558682de03596f7896338f21d03f839"
   }
 }

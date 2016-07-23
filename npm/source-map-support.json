@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.3.0": "github:typed-typings/npm-source-map-support#e91cb45942dbb380f14d79ecebed9e6e1081d995"
+    "0.3.0": "github:types/npm-source-map-support#e91cb45942dbb380f14d79ecebed9e6e1081d995"
   }
 }
