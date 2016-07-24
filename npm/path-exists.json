@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.0.0": "github:types/npm-path-exists#7de5e21660a8312f2bfbba4e83290eb8297c15e1"
+  }
+}
