@@ -1,6 +1,5 @@
-
 {
   "versions": {
-    "0.4.1": "github:louy/typed-amqplib#9c1cccc22621c4dcba6f551023928a14be5b5496"
+    "0.4.1": "github:louy/typed-amqplib#bf1d0be483a12e7ad9b717b97019fcd9bf4058dc"
   }
 }
