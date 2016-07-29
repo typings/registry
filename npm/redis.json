@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.12.1": "github:heycalmdown/typed-redis#68dc5edbf2bcf282f8fc105790b5014e318cf246"
+    "0.12.1": "github:heycalmdown/typed-redis#e86127c8b57371d37cd73fc0d59191dc26864717"
   }
 }
