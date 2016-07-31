@@ -25,7 +25,7 @@ You can open an issue in the package's repository and ask if they'd be intereste
 * Typings requests are labelled with [`typings request`](https://github.com/typings/registry/labels/typings%20request) in the issues
 * If you'd like to help review PRs to the registry, see [#70](https://github.com/typings/registry/issues/70) to help out
 * If you're wondering how to write tests for your typings, see [#150](https://github.com/typings/registry/issues/150)
-* If you'd like to help collaborate on [`typed-typings`](https://github.com/typed-typings), see [#480](https://github.com/typings/registry/issues/480) so we can collaborate
+* If you'd like to help collaborate on [`types`](https://github.com/types), see [#480](https://github.com/typings/registry/issues/480) so we can collaborate
 * If you'd like to lint your definitions, try [`tslint-config-typings`](https://github.com/typings/tslint-config-typings)
 
 ## Creating Typings
