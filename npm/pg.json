@@ -2,6 +2,6 @@
   "versions": {
     "4.4.4": "github:types/typed-pg#83236e7c54254e5e4135efc79280c91d3ba2d819",
     "4.5.1": "github:types/typed-pg#cadcb87875c39a59cd6d4f09ff9b2eac5e44370b",
-    "6.0.2": "github:types/typed-pg#7e1518cf1053321fc117ba91fa55b05aac626937"
+    "6.0.2": "github:types/typed-pg#2073d3e494bb622c36e0977c48d364ba8937e1d9"
   }
 }
