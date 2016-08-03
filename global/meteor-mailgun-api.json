@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.5.0": "github:finchalyzer/typed-meteor-mailgun-api#91f4ab0f6d9f898779dbc9c3da3e76daa0f691f2"
+  }
+}
