@@ -1,5 +1,6 @@
 {
   "versions": {
+    "6.2.3": "github:DaSchTour/foundation-sites-typings#c092ad96b283b01b2c60c48cfa0f22b4a952a10c",
     "6.1.1": "github:samvloeberghs/foundation-sites-typings#57a91b4a8ad8b277e886aa87e287ada5e9f3cbe3"
   }
 }
