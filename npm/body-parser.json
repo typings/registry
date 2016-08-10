@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.15.2": "github:felixfbecker/typed-body-parser#749d74943d8b449e6e6713fa7f4021613bc5a3cb"
+  }
+}
