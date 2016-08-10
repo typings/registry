@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "4.14.0": "github:felixfbecker/typed-express#cc01d3f2276d916f5abc5aedc22bcc45d731c38f"
+  }
+}
