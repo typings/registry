@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.5.0": "github:zelein/typed-valid-url#6cd3245acc6495c7ca6ebac02b3e3682e421e2f9"
+  }
+}
