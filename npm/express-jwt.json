@@ -1,5 +1,5 @@
 {
   "versions": {
-    "3.4.0": "github:types/express-jwt#536c86ea1a97480feb75f4451843246c1a9825f8"
+    "3.4.0": "github:types/npm-express-jwt#536c86ea1a97480feb75f4451843246c1a9825f8"
   }
 }
