@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:beenotung/typed-horizon#b4ad8e56192abc1d67636fe422ad89e1b5ea726a"
+    "1.0.0": "github:beenotung/typed-horizon/global/main.d.ts#c9c9799fd53fd15e1ff196271c92d52c8d80b2fb"
   }
 }
