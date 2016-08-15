@@ -1,5 +1,5 @@
 {
   "versions": {
-    "4.14.0": "github:felixfbecker/typed-express#cc01d3f2276d916f5abc5aedc22bcc45d731c38f"
+    "4.14.0": "github:ioayman/typed-express#75e56608e613ec3ab5c8ffdde3275604253db363"
   }
 }
