@@ -1,5 +1,5 @@
 {
   "versions": {
-    "3.31.0": "github:types/npm-yargs#6bb8f6dd141fbbe0bf2030ef9c929147acf7ebd9"
+    "3.31.0": "github:types/npm-yargs#f20fa76aa48f84459eb9c64d92dbc23f33f50e79"
   }
 }
