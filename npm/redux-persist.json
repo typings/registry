@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.2.2": "github:pellejacobs/typed-redux-persist#78616886cb5ebe7108b4e1b2b7d445abda35e287"
+  }
+}
