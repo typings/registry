@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.47.0": "github:types/simple-git#2e93fd4d0b7e2c5625c0871c7f03a50fb4e69207"
+  }
+}
