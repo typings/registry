@@ -1,5 +1,5 @@
 {
     "versions": {
-        "1.0.1": "github:gina-system/typings-redux-storage-reactnativeasyncstorage"
+        "1.0.1": "github:gina-system/typings-redux-storage-reactnativeasyncstorage#b131de44410b250a3301a4278712b6064e010ef9"
     }
 }
