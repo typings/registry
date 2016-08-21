@@ -5,7 +5,6 @@ var readFile = require('fs').readFile
 var join = require('path').join
 var Batch = require('batch')
 var typings = require('typings-core')
-var parseDependency = require('typings-core/dist/utils/parse').parseDependency
 var arrify = require('arrify')
 var exec = require('child_process').exec
 var minimatch = require('minimatch')
@@ -104,7 +103,7 @@ function execFiles (files) {
             }
 
             // check if commit sha is specified
-            var dependency = parseDependency(info.location)
+            var dependency = typings.parseDependency(info.location)
             if (dependency.type === 'github' || dependency.type === 'bitbucket') {
               if (dependency.meta.sha === 'master') {
                 return done(new Error(info.location + ' is mutable and may change, consider specifying a commit hash'))
