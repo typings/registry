@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.3.0": "github:pellejacobs/typed-node-localstorage#d142fa7dee0e73b2d2ec18c88cbc3766a5fa69ad"
+  }
+}
