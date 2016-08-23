@@ -1,0 +1,6 @@
+{
+  "versions": {
+    "1.6.0": "github:natevecc/typed-gulp-sourcemaps/1.6.0#4dea5751f6b943b637ba2c0c6967dc4010da6df5",
+    "2.0.0-alpha": "github:natevecc/typed-gulp-sourcemaps/2.0.0-alpha#4dea5751f6b943b637ba2c0c6967dc4010da6df5"
+  }
+}
