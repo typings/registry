@@ -1,10 +1,10 @@
 {
   "versions": {
-    "0.8.0": "github:types/env-node/0.8#48799287cfc9c551a7d03cb1c1f39fdf4d2308f8",
-    "0.10.0": "github:types/env-node/0.10#48799287cfc9c551a7d03cb1c1f39fdf4d2308f8",
-    "0.11.0": "github:types/env-node/0.11#48799287cfc9c551a7d03cb1c1f39fdf4d2308f8",
-    "0.12.0": "github:types/env-node/0.12#48799287cfc9c551a7d03cb1c1f39fdf4d2308f8",
-    "4.0.0": "github:types/env-node/4#48799287cfc9c551a7d03cb1c1f39fdf4d2308f8",
-    "6.0.0": "github:types/env-node/6#48799287cfc9c551a7d03cb1c1f39fdf4d2308f8"
+    "0.8.0": "github:types/env-node/0.8#9b4d855e359806908a607fa53ad04dc5a8598e45",
+    "0.10.0": "github:types/env-node/0.10#9b4d855e359806908a607fa53ad04dc5a8598e45",
+    "0.11.0": "github:types/env-node/0.11#9b4d855e359806908a607fa53ad04dc5a8598e45",
+    "0.12.0": "github:types/env-node/0.12#9b4d855e359806908a607fa53ad04dc5a8598e45",
+    "4.0.0": "github:types/env-node/4#9b4d855e359806908a607fa53ad04dc5a8598e45",
+    "6.0.0": "github:types/env-node/6#9b4d855e359806908a607fa53ad04dc5a8598e45"
   }
 }
