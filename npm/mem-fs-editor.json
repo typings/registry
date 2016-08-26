@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.3.0": "github:types/mem-fs-editor#c01de2b1e63729bd0cb97ceb37e2b0bd35e0f0a3"
+    "2.3.0": "github:types/npm-mem-fs-editor#c01de2b1e63729bd0cb97ceb37e2b0bd35e0f0a3"
   }
 }
