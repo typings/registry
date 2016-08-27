@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.2.6": "github:evictor/typings-karma-fixture#e9b28071bc9d65c09575d789208d4916e30ba09f"
+  }
+}
