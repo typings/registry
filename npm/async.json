@@ -1,0 +1,6 @@
+{
+  "versions": {
+    "1.4.2": "github:types/npm-async/1#ff63908a70ec51b775d9a6b8afac9945b12fbe08",
+    "2.0.1": "github:types/npm-async/2#ff63908a70ec51b775d9a6b8afac9945b12fbe08"
+  }
+}

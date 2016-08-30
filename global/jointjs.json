@@ -1,5 +1,6 @@
 {
   "versions": {
-    "0.9.7": "github:CaselIT/typings-jointjs/global/typings.json#0057f477ed3cd7e04a7992c512c49687e82dc19f"
+    "0.9.7": "github:CaselIT/typings-jointjs/global/typings.json#f09952876a53bb4310de7e41e79c78aec1261e10",
+    "0.9.10": "github:CaselIT/typings-jointjs/global/typings.json#d2dc939c7cebbfdb6f6b4550c4a84603186ff4e1"
   }
 }

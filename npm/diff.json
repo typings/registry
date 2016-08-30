@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:typed-typings/npm-diff#9b748f41b48c9ddcca5c2a135edd57df25d578cd"
+    "2.0.0": "github:types/npm-diff#9b748f41b48c9ddcca5c2a135edd57df25d578cd"
   }
 }

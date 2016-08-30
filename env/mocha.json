@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.2.5": "github:typed-typings/env-mocha#749e3d8a4f5a7f4ff817a12011f3531e5f4f2ce8"
+    "2.2.5": "github:types/env-mocha#0b58663c7a4f06e8bde38d6e0f686093552efe5b"
   }
 }

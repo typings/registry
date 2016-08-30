@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.4.0": "github:typed-typings/npm-gravatar#5b5a86a02df69230cc69abcd34e97ab14a82595e"
+    "1.4.0": "github:types/npm-gravatar#5b5a86a02df69230cc69abcd34e97ab14a82595e"
   }
 }

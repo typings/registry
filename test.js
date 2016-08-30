@@ -102,6 +102,14 @@ function execFiles (files) {
               info = { location: info }
             }
 
+            // check if commit sha is specified
+            var dependency = typings.parseDependency(info.location)
+            if (dependency.type === 'github' || dependency.type === 'bitbucket') {
+              if (dependency.meta.sha === 'master') {
+                return done(new Error(info.location + ' is mutable and may change, consider specifying a commit hash'))
+              }
+            }
+
             typingsBatch.push(function (done) {
               typings.installDependency({
                 name: name,

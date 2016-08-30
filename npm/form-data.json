@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:typed-typings/npm-form-data#edc32200ec6065d98bfaa7ff9cfd104e17c5d3e4"
+    "1.0.0": "github:types/npm-form-data#5bece77e7cade27af7001137ac134eb74ca308f3"
   }
 }

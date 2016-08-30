@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "5.3.1": "github:types/npm-glob-stream#678827da5642c639d3e0c572d96211d278b1e87e"
+  }
+}

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "5.0.0": "github:typed-typings/npm-semver#e98b40dcb906211d06ea8272570719777cece453"
+    "5.0.0": "github:types/npm-semver#e98b40dcb906211d06ea8272570719777cece453"
   }
 }

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.8.5": "github:typed-typings/npm-http-server#5efe13f96efdc0f0cb172237fc66d21496afce5b"
+    "0.8.5": "github:types/npm-http-server#f422b6db777bb74b9784dd921bc0dca0d5c46a07"
   }
 }

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:typed-typings/npm-through2#2b1d39490ad8530546d97babee8cfaaabed9e0cd"
+    "2.0.0": "github:types/npm-through2#83d47b72bdd67d6b94155846514a0e4212458d53"
   }
 }

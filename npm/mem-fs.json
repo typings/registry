@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.1.3": "github:types/npm-mem-fs#fd4056c317d21714a6fc9b16f51c6e793b19c18d"
+  }
+}

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.2.0": "github:typed-typings/npm-tough-cookie#235987754f775ce1374d2b551175cc1d356e3935"
+    "2.2.0": "github:types/npm-tough-cookie#235987754f775ce1374d2b551175cc1d356e3935"
   }
 }

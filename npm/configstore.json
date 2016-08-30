@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:typed-typings/npm-configstore#765d015ab10c89ab6dd88c3a578be7b7fc3a2101"
+    "2.0.0": "github:types/npm-configstore#765d015ab10c89ab6dd88c3a578be7b7fc3a2101"
   }
 }

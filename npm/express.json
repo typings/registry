@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "4.14.0": "github:types/npm-express#53ba67bb089a4636ebf1d92a5b1da60175f60be3"
+  }
+}

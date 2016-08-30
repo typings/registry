@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:typed-typings/npm-object.pick#c588655f1889da2140b89ee4d42be3665ff3e164"
+    "1.0.0": "github:types/npm-object.pick#c588655f1889da2140b89ee4d42be3665ff3e164"
   }
 }

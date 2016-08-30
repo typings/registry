@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:typed-typings/common-any#9af4fdd4fc62669ca8f30fb9e9a2903d81eb7c13"
+    "1.0.0": "github:types/common-any#9af4fdd4fc62669ca8f30fb9e9a2903d81eb7c13"
   }
 }

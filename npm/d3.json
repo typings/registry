@@ -1,5 +1,5 @@
 {
   "versions": {
-    "3.0.0": "github:typed-typings/npm-d3#8bb38bb0ef0a48ac273f6045c26753260ea089df"
+    "3.0.0": "github:types/npm-d3#a3171387d85d30049479ca880c617e63dca23afe"
   }
 }

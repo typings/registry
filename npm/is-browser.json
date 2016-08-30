@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:typed-typings/npm-is-browser#396c31263e662d183be6c6564a6e52c310ac244f"
+    "2.0.0": "github:types/npm-is-browser#396c31263e662d183be6c6564a6e52c310ac244f"
   }
 }

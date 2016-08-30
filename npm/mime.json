@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.3.0": "github:typed-typings/npm-mime#c7c5810698b7eaa421702a53644a8963d372f758"
+    "1.3.0": "github:types/npm-mime#c7c5810698b7eaa421702a53644a8963d372f758"
   }
 }

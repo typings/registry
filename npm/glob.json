@@ -1,5 +1,5 @@
 {
   "versions": {
-    "6.0.0": "github:typed-typings/npm-glob#59ca0f5d4696a8d4da27858035316c1014133fcb"
+    "6.0.0": "github:types/npm-glob#59ca0f5d4696a8d4da27858035316c1014133fcb"
   }
 }
