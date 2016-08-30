@@ -1,6 +1,6 @@
 {
   "versions": {
-    "1.2.0": "github:meteor-typings/meteor/1.2#76b3dfc3bcd51c0199b58c09168947a770949c76",
-    "1.3.0": "github:meteor-typings/meteor/1.3#76b3dfc3bcd51c0199b58c09168947a770949c76"
+    "1.2.0": "github:meteor-typings/meteor/1.2#9e96f088dee667910a492e59a340d631c3305be0",
+    "1.3.0": "github:meteor-typings/meteor/1.3#9e96f088dee667910a492e59a340d631c3305be0"
   }
 }
