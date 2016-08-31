@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.15.2": "github:types/npm-body-parser#f77bb083cf0d5508b502be890d5d3f2f2902cc23"
+  }
+}

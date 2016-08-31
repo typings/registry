@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.2.0": "github:jstype/typed-npm-http-assert#2bc21f22d4f0de78a2ad19ac5980cf22c6463732"
+  }
+}

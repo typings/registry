@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.6.0": "github:types/npm-chokidar#b60918f9b3b996a68f1ea27f192233475cfbbc22"
+  }
+}
