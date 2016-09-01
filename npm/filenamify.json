@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.2.0": "github:types/npm-filenamify#97f60d24600cad12339efc6b3fc9c0c7106dbd7d"
+  }
+}
