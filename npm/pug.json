@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.0.0": "github:types/npm-pug#49562db75c8ae4bebc9873acca1b27a3e07370e8"
+  }
+}
