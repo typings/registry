@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.0.0": "github:types/npm-koa#afc9613c0aaf8406b3afd95bd2f051e7d339b231"
+  }
+}
