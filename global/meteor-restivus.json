@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:niceilm/typed-meteor-restivus#ce3e2f4a80dc871b3d40a927c7c2ff526f0b16aa"
+  }
+}
