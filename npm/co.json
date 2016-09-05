@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "4.6.0": "github:types/npm-co#650c90a3f097bbc2f8bded21d7d8586e2eb8ac91"
+  }
+}
