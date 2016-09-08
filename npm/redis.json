@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.12.1": "github:types/typed-redis#e86127c8b57371d37cd73fc0d59191dc26864717"
+    "2.6.0": "github:types/typed-redis#8d0f9f0d57c05cef5d7a592cde31fa973aa0e6f0"
   }
 }
