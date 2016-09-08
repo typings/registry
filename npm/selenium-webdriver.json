@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.0.0-beta-2": "github:sfali23/typings-selenium-webdriver#39dd5a9bb5ee439182f1daf0a17e75731808ac25"
+  }
+}
