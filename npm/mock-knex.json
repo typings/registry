@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.3.0": "github:jessezhang91/typed-mock-knex#fd10876c268c0f711218753d1ec939e5ab60380c"
+  }
+}
