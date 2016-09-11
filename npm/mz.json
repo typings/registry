@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.4.0": "github:types/npm-mz#b8855686fe734c77e2f2939a68fa1ab6a8255484"
+  }
+}
