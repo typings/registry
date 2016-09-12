@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:taxpon/typings-stripe#cf87a3d2141543bd4db26cf5c567329961ebec09"
+  }
+}
