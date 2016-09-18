@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.92.12": "github:nohira/typed-mock-browser#6c490b0cafa959d43b3927d607ae5cc46cf4c9fa"
+  }
+}
