@@ -1,6 +1,6 @@
 {
   "versions": {
-    "3.0.0": "github:louy/typed-sequelize/3#7825a5f4bdf25321aaf3b16296a87fd72690d0a3",
-    "4.0.0-1": "github:louy/typed-sequelize/4#7825a5f4bdf25321aaf3b16296a87fd72690d0a3"
+    "3.0.0": "github:louy/typed-sequelize/3#ac469bc549bb1be0abf2777b96d1505d3f1bd8eb",
+    "4.0.0-1": "github:louy/typed-sequelize/4#ac469bc549bb1be0abf2777b96d1505d3f1bd8eb"
   }
 }
