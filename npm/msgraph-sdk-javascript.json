@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.1.0": "github:microsoftgraph/msgraph-typescript-typings#05e97952d573b2dd1f05578211f37fccbe138283"
+  }
+}
