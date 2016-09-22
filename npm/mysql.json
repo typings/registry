@@ -1,5 +1,5 @@
 {
-  "version": {
+  "versions": {
     "2.11.1": "github:types/npm-mysql#7a1edc14f445430dd48604919d1adc22207de307"
   }
 }
