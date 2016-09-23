@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.3.0": "github:types/npm-rethinkdb#365d912bd1c5ce50157fcd1a96942f28900f7d86"
+    "2.3.0": "github:types/npm-rethinkdb#b41a8bb8503acd78a001b5cdcefcb1da89092602"
   }
 }
