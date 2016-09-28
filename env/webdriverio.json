@@ -1,0 +1,6 @@
+{
+  "versions": {
+    "4.2.16-s": "github:sfali23/typings-webdriverio/standalone#99b6ee5c9e34d6de88f6edb2f9a6843894c7dc96",
+    "4.2.16-w": "github:sfali23/typings-webdriverio/wdio#99b6ee5c9e34d6de88f6edb2f9a6843894c7dc96"
+  }
+}
