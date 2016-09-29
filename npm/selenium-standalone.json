@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "5.7.2": "github:zelein/typed-selenium-standalone#42cfa5f1a9f40fdfdc3c126c5e7f99697b84c765"
+  }
+}
