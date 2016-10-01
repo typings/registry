@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.10.0": "github:types/npm-node-rush#08fdfead52c28de8ed3acc399ea0743357eb9c4b"
+  }
+}
