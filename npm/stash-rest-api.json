@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.6.0": "github:zergmk2/typed-stash-rest-api#3a712da8fa9ecfdd1618bf6dc785046751b7ff4b"
+  }
+}
