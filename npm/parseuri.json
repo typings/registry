@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.0.4": "github:effervescentia/parseuri#d50d66fecb2adc5ea509b8fca99181bf7639e32c"
+    "0.0.4": "github:effervescentia/typed-parseuri#d50d66fecb2adc5ea509b8fca99181bf7639e32c"
   }
 }
