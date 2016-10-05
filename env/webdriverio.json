@@ -1,0 +1,5 @@
+{
+  "versions": {
+	"4.2.16": "github:sfali23/typings-webdriverio/wdio#af9892f5172e14368cfba693bd24051ce0ffe691"
+  }
+}
