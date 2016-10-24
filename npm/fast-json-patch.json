@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.1.1": "github:types/npm-fast-json-patch#f2a7d9d114be07d3f63ec28b15907656e194f8ea"
+  }
+}
