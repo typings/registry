@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:types/npm-passport-strategy#707999fe332c7372f21fad3fcd2639b0b0adcf29"
+  }
+}
