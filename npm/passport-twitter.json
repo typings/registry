@@ -1,5 +1,5 @@
 {
-  "versions":
+  "versions": {
     "1.0.0": "github:types/npm-passport-twitter#55bc888b2d128cb3f3136364f3cb93fff3a3d51a"
   }
 }
