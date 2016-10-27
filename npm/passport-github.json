@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.1.0": "github:types/npm-passport-github#00cac840269ce2fe87b684f12a3ba45348059030"
+  }
+}
