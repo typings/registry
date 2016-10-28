@@ -1,0 +1,5 @@
+{
+    "versions": {
+        "0.2.7": "github:barinbritva/typed-device.js#e2ee13863bf528fd326964379a8d8b02d3e0911d"
+    }
+}
