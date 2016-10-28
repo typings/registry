@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "6.1.2": "github:j-oliveras/typed-gulp-babel#aadf4cd4384eaa94a1d9d35c90bcc06fda436913"
+  }
+}
