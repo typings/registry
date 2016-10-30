@@ -13,7 +13,7 @@
         "/env/*.json",
         "/global/*.json"
       ],
-      "url": "/schema.json"
+      "url": "./schema.json"
     }
   ]
 }
