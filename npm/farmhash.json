@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.2.1": "github:jemmyw/typed-farmhash#1cc2909eaec457b7a55ab2061465c4597a75a739"
+  }
+}
