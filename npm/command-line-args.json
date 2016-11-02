@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.0.2": "github:j-oliveras/typed-command-line-args#f681ca97efee0928f3ecd03e9915c5bf7d6cbd00"
+  }
+}
