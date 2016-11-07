@@ -1,5 +1,6 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-scmp#cb715ec14bb0f715e59b76ffddff626c6b99210a"
+    "1.0.0": "github:types/npm-scmp#cb715ec14bb0f715e59b76ffddff626c6b99210a",
+    "2.0.0": "github:types/npm-scmp#9ddbeb4df964a8c63c27a55ce05d0d708620a1b6"
   }
 }
