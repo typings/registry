@@ -4,7 +4,7 @@
 
 * [ ] Does the README explain the purpose of the typings and have a link to the JavaScript project?
 * [ ] Do the typings follow the source structure (e.g. `index.js` <-> `index.d.ts`)?
-* [ ] Are they external or global modules according the source (e.g. see README sources)?
+* [ ] Are they external or global modules according to the source (e.g. see README sources)?
 
 **Change Summary (for existing typings):**
 
