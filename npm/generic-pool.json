@@ -1,6 +1,6 @@
 {
   "versions": {
-    "2.4.0": "github:goenning/typed-generic-pool#ddfdcbcb39b2d7fdfb11a80c187cc9c840aa5e8f",
-    "2.4.2": "github:goenning/typed-generic-pool#b72aff11132636a4d11830adfb0eb1bf3adcfc35"
+    "2.4.0": "github:types/npm-generic-pool#ddfdcbcb39b2d7fdfb11a80c187cc9c840aa5e8f",
+    "2.4.2": "github:types/npm-generic-pool#b72aff11132636a4d11830adfb0eb1bf3adcfc35"
   }
 }
