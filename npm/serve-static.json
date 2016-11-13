@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.11.1": "github:felixfbecker/typed-serve-static#fe2b0ca8e5f2bd696242c57fef96e85715b4c516"
+    "1.11.1": "github:types/npm-serve-static#6529d016fbdf1707767140e848002ef9fa0be2e2"
   }
 }
