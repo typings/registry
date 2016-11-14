@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "7.0.0": "github:types/npm-catbox#915eb7e00b3d2f34197cafcac8b60ca33cf7562f"
+  }
+}
