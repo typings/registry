@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.0.10": "github:ServiceStack/servicestack-client#1a3c40c74581682efc3345c73d8a2ec038de46fc"
+    "0.0.15": "github:ServiceStack/servicestack-client#e82c7d62b3667f3da2a55c006a8e49a0fe3f4c4b"
   }
 }
