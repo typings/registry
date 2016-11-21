@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.5.0": "github:types/npm-flux-standard-action#2db275a2230cd1908bd3ab5ac5031bd44e7c3fae"
+    "0.5.0": "github:types/npm-flux-standard-action#e51aece9a33b117918e5e3b8eacc9c80288976a6"
   }
 }
