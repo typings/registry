@@ -1,5 +1,6 @@
 {
   "versions": {
-    "0.2.20": "github:typed-contrib/jimp#57e201a201799cf828aa1c7efa6f1a0e4c435f2e"
+    "0.2.20": "github:typed-contrib/jimp#57e201a201799cf828aa1c7efa6f1a0e4c435f2e",
+    "0.2.27": "github:Roaders/jimp#9a232dcc4a1527021aa585aa63a806595dd1b435"
   }
 }
