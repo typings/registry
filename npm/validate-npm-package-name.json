@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:typed-typings/npm-validate-npm-package-name#366a675b089f7d37ba10c2bb136b98a39d0d10f8"
+    "2.0.0": "github:types/npm-validate-npm-package-name#366a675b089f7d37ba10c2bb136b98a39d0d10f8"
   }
 }

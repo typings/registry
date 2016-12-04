@@ -1,5 +1,6 @@
 {
   "versions": {
-    "2.3.0": "github:effervescentia/typed-riot#db2af9ea9d2ab08d3e56313e0c91e3a5f050d0cc"
+    "2.6.0": "github:effervescentia/typed-riot#76fbdced95089fa4c5a2e5c783ed83afcd004563",
+    "3.0.1": "github:effervescentia/typed-riot#ac2567f22804b7d845202aa637ae1d5b8b4106ce"
   }
 }

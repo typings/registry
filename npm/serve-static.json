@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.11.1": "github:types/npm-serve-static#6529d016fbdf1707767140e848002ef9fa0be2e2"
+  }
+}

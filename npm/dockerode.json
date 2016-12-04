@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.3.1": "github:typed-contrib/dockerode#b88ec97d60fe98523e15e0fcc0e578030fdddcf4"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "versions": {
+    "7.0.1": "github:types/npm-koa-router#e3c331736a61db84495efc551273dfdc2d7beccb"
+  }
+}
+

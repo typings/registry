@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0-alpha.1": "github:typed-typings/npm-cookie-session#e95f0f047fcbd6efc59285cf72db0798fd60c825"
+    "2.0.0-alpha.1": "github:types/npm-cookie-session#997a7479b1629320707673f1e28c6cb392158835"
   }
 }

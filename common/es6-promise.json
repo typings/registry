@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "4.0.0": "github:types/npm-es6-promise#fb04188767acfec1defd054fc8024fafa5cd4de7"
+  }
+}

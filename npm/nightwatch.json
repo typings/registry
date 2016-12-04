@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:types/npm-nightwatch#9fc24fc8f4b7de4bdafa0d7f08b519ccbc722dd2"
+  }
+}

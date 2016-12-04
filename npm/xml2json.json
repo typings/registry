@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.9.1": "github:types/npm-xml2json#17fef965ea5cd38f42eefa52220b76a5612f2994"
+  }
+}

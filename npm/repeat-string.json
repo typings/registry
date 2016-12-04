@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:typed-typings/npm-repeat-string#17eeaf882e9c0b3822653f74a028909d3fc0c97f"
+    "1.0.0": "github:types/npm-repeat-string#17eeaf882e9c0b3822653f74a028909d3fc0c97f"
   }
 }
