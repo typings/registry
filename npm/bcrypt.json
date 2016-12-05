@@ -1,5 +1,6 @@
 {
   "versions": {
-    "0.8.0": "github:types/npm-bcrypt#1713a9d9fccf9a1a34ae8cf1f39a818a43ae2953"
+    "0.8.0": "github:types/npm-bcrypt#1713a9d9fccf9a1a34ae8cf1f39a818a43ae2953",
+    "1.0.0": "github:types/npm-bcrypt#35f8721dbf2072bc65f1495f58905aaba2158d9b"
   }
 }
