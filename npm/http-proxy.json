@@ -1,5 +1,5 @@
 { 
     "versions": { 
-        "1.12.0": "github:typed-contrib/node-http-proxy#9ecee38ed25be2bc3fc3eb7600b91a6df4346e09" 
+        "1.12.0": "github:typed-contrib/node-http-proxy#db949aa74623402cd0c535985ee8060e6718a72c" 
     } 
 } 
