@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:niceilm/typed-meteor-simple-schema#b399d53b35ef679cedfb961604704b5247684bad"
+  }
+}
