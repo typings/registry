@@ -1,5 +1,6 @@
 {
   "versions": {
+    "3.3.0": "github:miltador/typed-vandium#e44a094b7a85cf02d79bf874e9e33ed29a5a80f1",
     "3.2.0": "github:miltador/typed-vandium#f3046eb3ca2237d174599853056b97020216faa9"
   }
 }
