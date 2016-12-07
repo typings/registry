@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.2.2": "github:Tapad/typed-node-zookeeper-client#3d00a7a00f66bb24e1a72efc48e606d6f0f9d4de"
+  }
+}
