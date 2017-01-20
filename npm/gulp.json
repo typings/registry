@@ -1,7 +1,7 @@
 {
   "versions": {
     "3.8.0": "github:types/npm-gulp/3.8.0#e01fe07d5fb6dbe07a0e37492e90e4969badbda2",
-    "3.9.1": "github:types/npm-gulp/3.9.1#e01fe07d5fb6dbe07a0e37492e90e4969badbda2",
+    "3.9.1": "github:types/npm-gulp/3.9.1#8782255bae61fcb70dac9838e813120806b92a23",
     "4.0.0-alpha.2": "github:types/npm-gulp/4.0.0-alpha.2#e01fe07d5fb6dbe07a0e37492e90e4969badbda2"
   }
 }
