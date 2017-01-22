@@ -1,5 +1,6 @@
 {
   "versions": {
+    "0.3.14": "github:types/npm-vinyl-fs#ab3980c65339b5f6a768e02a79a3307d5edb81b4",
     "2.4.3": "github:types/npm-vinyl-fs#94022d746133d86138b21e97fdc4179a89645685"
   }
 }
