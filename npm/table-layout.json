@@ -1,5 +1,6 @@
 {
   "versions": {
-    "0.2.3": "github:j-oliveras/typed-table-layout#d4c10b02baec34baf0ab7334b2fbcd8dce9f4367"
+    "0.2.3": "github:j-oliveras/typed-table-layout#d4c10b02baec34baf0ab7334b2fbcd8dce9f4367",
+    "0.3.0": "github:j-oliveras/typed-table-layout#abe74e710d2a24a3621d73f437ce9449e5ec90f6"
   }
 }
