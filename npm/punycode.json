@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.1.0": "github:types/npm-punycode#b5b92d000213704b49f30b75cbeaa14ab4d3d7b3"
+  }
+}
