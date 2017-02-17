@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.4.4": "github:typed-contrib/aerospike-client-nodejs#f168a8a424fe927af03109eea811ea93494aab4a"
+  }
+}
