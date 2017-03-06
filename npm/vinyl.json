@@ -1,5 +1,6 @@
 {
   "versions": {
-    "1.2.0": "github:types/npm-vinyl#677de6fa085d573d10ce8c26f14309f0b12af285"
+    "1.2.0": "github:types/npm-vinyl#677de6fa085d573d10ce8c26f14309f0b12af285",
+    "2.0.0": "github:types/npm-vinyl#e057cb8f5f7515695d4a68bb368d06ac34ab9450"
   }
 }
