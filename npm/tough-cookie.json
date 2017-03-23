@@ -1,5 +1,6 @@
 {
   "versions": {
-    "2.2.0": "github:types/npm-tough-cookie#05f8c59af4823af51f3ea54927c43253696bc71f"
+    "2.2.0": "github:types/npm-tough-cookie#05f8c59af4823af51f3ea54927c43253696bc71f",
+    "2.3.2": "github:types/npm-tough-cookie#b058598a658149022c4295ba55e6f3601e2bb8a7"
   }
 }
