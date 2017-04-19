@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "5.6.0": "github:developit/preact#c1bc415fdc04e84a245d6c688393f40134f3ac68"
+  }
+}
