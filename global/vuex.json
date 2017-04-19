@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0-rc.2": "github:vuejs/vuex/types#eca13a5b8223296ff0eebfd7efd9bd9509e364a8"
+  }
+}
