@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.8.0": "github:alexeldeib/typed-documentdb#efa8193d224bc397d6a100de7d1817f284077df6"
+  }
+}
