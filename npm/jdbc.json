@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.4.0": "github:CraZySacX/node-jdbc#f1461d0a2e061ad72b3c3c3a11cf5e4641a3f6d3"
+  }
+}
