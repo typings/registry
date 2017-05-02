@@ -1,6 +1,6 @@
 {
   "versions": {
-    "3.0.0": "github:types/npm-sequelize/3#053f98b2e88b725087930e76eb2360cfed94ecaa",
-    "4.0.0-1": "github:types/npm-sequelize/4#053f98b2e88b725087930e76eb2360cfed94ecaa"
+    "3.0.0": "github:types/npm-sequelize/3#b758529a6e7d2f0704d75ec66f015c7ef0a10252",
+    "4.0.0-1": "github:types/npm-sequelize/4#b758529a6e7d2f0704d75ec66f015c7ef0a10252"
   }
 }
