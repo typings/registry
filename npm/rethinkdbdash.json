@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "2.3.0": "github:types/rethinkdbdash#3fbbfae2ee1d344a827fcec259ce2e4dff958dee"
+  }
+}
