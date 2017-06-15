@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/typings/registry",
   "devDependencies": {
-    "ajv": "^5.0.0",
+    "ajv": "5.1.5",
     "arrify": "^1.0.0",
     "batch": "^0.6.0",
     "glob": "^7.0.0",
