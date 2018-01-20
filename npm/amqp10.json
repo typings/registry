@@ -1,6 +1,6 @@
 {
   "versions": {
     "3.1.4": "github:typed-contrib/node-amqp10#49929cd5a3617e50e2c2131eef303c43e1551497",
-    "3.3.1": "github:typed-contrib/node-amqp10#736ff255ec1ad507d94e0838e98f89ae95129b2b"
+    "3.3.1": "github:typed-contrib/node-amqp10#c42a25c8531690708dee1b99c9b71d720f87316d"
   }
 }
