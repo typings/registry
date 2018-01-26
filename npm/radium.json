@@ -1,5 +1,6 @@
 {
     "versions": {
-        "0.16.6": "github:asvetliakov/typings-radium#d784cae404b6cdf5fbf7fbef65345b1ee7d52bf8"
+        "0.16.6": "github:asvetliakov/typings-radium#d784cae404b6cdf5fbf7fbef65345b1ee7d52bf8",
+        "0.17.0": "github:asvetliakov/typings-radium#48a16bcc7341d772e7ab5a3f71bd263a0e9020a5"
     }
 }
