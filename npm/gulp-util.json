@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.0.7": "github:demurgos/typed-gulp-util#2f2c434fe5bff69a4bd6dafd7e700534d68d20bf"
+  }
+}
