@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "0.2.1": "github:tdbrian/typed-gulp-html-angular-validate#bd81b564f5d2c9f6eeb8acdab574485b974bee20"
+  }
+}
