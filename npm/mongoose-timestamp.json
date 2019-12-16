@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.5.0": "github:types/npm-mongoose-timestamp#46367c3e46232e7711e855b7514a39f8b6cdff47"
+    "0.5.0": "github:typed-typings/npm-mongoose-timestamp#46367c3e46232e7711e855b7514a39f8b6cdff47"
   }
 }

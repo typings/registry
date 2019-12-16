@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-undertaker#cf266b4c909e20deb416ffb03e495bf7227a71bf"
+    "1.0.0": "github:typed-typings/npm-undertaker#cf266b4c909e20deb416ffb03e495bf7227a71bf"
   }
 }

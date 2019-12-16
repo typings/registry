@@ -1,5 +1,5 @@
 {
   "versions": {
-    "4.0.0": "github:types/npm-lodash#6557c3cd628ef6b39abfdc826b27ea1f06d8af89"
+    "4.0.0": "github:typed-typings/npm-lodash#6557c3cd628ef6b39abfdc826b27ea1f06d8af89"
   }
 }

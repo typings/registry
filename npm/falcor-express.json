@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.1.0": "github:types/npm-falcor-express#92dd1f82bb0f9af2ebb29debfa567d1b2846895e"
+    "0.1.0": "github:typed-typings/npm-falcor-express#92dd1f82bb0f9af2ebb29debfa567d1b2846895e"
   }
 }

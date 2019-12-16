@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.1.10": "github:types/npm-mcrypt#cc392d49902f33ab8a5cd95bbd91144201750f51"
+    "0.1.10": "github:typed-typings/npm-mcrypt#cc392d49902f33ab8a5cd95bbd91144201750f51"
   }
 }

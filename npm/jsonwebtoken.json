@@ -1,6 +1,6 @@
 {
   "versions": {
     "5.5.4": "github:enriched/typed-jsonwebtoken#0519409cb457f00301086af68acb4b1be4d72ec4",
-    "7.1.8": "github:types/npm-jsonwebtoken#756a6f6b0c599f6f3c9c20183e118f15a8b641cf"
+    "7.1.8": "github:typed-typings/npm-jsonwebtoken#756a6f6b0c599f6f3c9c20183e118f15a8b641cf"
   }
 }

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-ldapjs#753ba6ae60bda6a28d838d2d43bbf0aa7cb20be1"
+    "1.0.0": "github:typed-typings/npm-ldapjs#753ba6ae60bda6a28d838d2d43bbf0aa7cb20be1"
   }
 }

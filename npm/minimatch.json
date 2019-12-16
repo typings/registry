@@ -1,5 +1,5 @@
 {
   "versions": {
-    "3.0.0": "github:types/npm-minimatch#9310ba95db9232f24bfe271a13397cada997a3a6"
+    "3.0.0": "github:typed-typings/npm-minimatch#9310ba95db9232f24bfe271a13397cada997a3a6"
   }
 }

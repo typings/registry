@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.2.1": "github:types/npm-git-rev#c7e57cbea9458d80de99aeb0b7b42bb517693f26"
+    "0.2.1": "github:typed-typings/npm-git-rev#c7e57cbea9458d80de99aeb0b7b42bb517693f26"
   }
 }

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "4.0.0": "github:types/npm-graceful-fs#84adcae7061f5f71409cac66fc6628929e536022"
+    "4.0.0": "github:typed-typings/npm-graceful-fs#84adcae7061f5f71409cac66fc6628929e536022"
   }
 }

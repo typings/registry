@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-concat-stream#099a88b57dcc9968246e8b1b3651e914a1a2c324"
+    "1.0.0": "github:typed-typings/npm-concat-stream#099a88b57dcc9968246e8b1b3651e914a1a2c324"
   }
 }

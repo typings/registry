@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-methods#b902fa13683e95d54b2bb69188f68ea3525ec430"
+    "1.0.0": "github:typed-typings/npm-methods#b902fa13683e95d54b2bb69188f68ea3525ec430"
   }
 }

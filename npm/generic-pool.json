@@ -1,6 +1,6 @@
 {
   "versions": {
-    "2.4.0": "github:types/npm-generic-pool#7fe8cabec9a8ab749fd054e9933aca89407b9b14",
-    "3.0.0": "github:types/npm-generic-pool#74e32ca30361db5acaff9ee9932853fe00091432"
+    "2.4.0": "github:typed-typings/npm-generic-pool#7fe8cabec9a8ab749fd054e9933aca89407b9b14",
+    "3.0.0": "github:typed-typings/npm-generic-pool#74e32ca30361db5acaff9ee9932853fe00091432"
   }
 }

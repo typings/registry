@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.1": "github:types/npm-line-input-stream#cf8f4822ed36c780d83f88dfe30668f79201a3c7"
+    "1.0.1": "github:typed-typings/npm-line-input-stream#cf8f4822ed36c780d83f88dfe30668f79201a3c7"
   }
 }

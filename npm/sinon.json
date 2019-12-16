@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.16.0": "github:types/npm-sinon#e18b1896080e7ae16c16a2725ed5e43d2f2fea65"
+    "1.16.0": "github:typed-typings/npm-sinon#e18b1896080e7ae16c16a2725ed5e43d2f2fea65"
   }
 }

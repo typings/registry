@@ -1,6 +1,6 @@
 {
   "versions": {
-    "5.7.0": "github:types/validator#2ff2362c9341b41b781e83bc7c0759c0359be6e2",
-    "7.0.0": "github:types/validator#c070bedc1dab21991b045e2c9be27904bcb08910"
+    "5.7.0": "github:typed-typings/validator#2ff2362c9341b41b781e83bc7c0759c0359be6e2",
+    "7.0.0": "github:typed-typings/validator#c070bedc1dab21991b045e2c9be27904bcb08910"
   }
 }

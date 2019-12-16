@@ -1,5 +1,5 @@
 {
   "versions": {
-    "3.0.0": "github:types/npm-v8flags#de224ae1cd5fd7dbb4e7158a6cc7a29e5315930d"
+    "3.0.0": "github:typed-typings/npm-v8flags#de224ae1cd5fd7dbb4e7158a6cc7a29e5315930d"
   }
 }

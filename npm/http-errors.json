@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.4.0": "github:types/npm-http-errors#6fa04b5f2cc2560f4547820f5d138dbb5789345d"
+    "1.4.0": "github:typed-typings/npm-http-errors#6fa04b5f2cc2560f4547820f5d138dbb5789345d"
   }
 }

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-wordwrap#c5852a5a23954e721246001d4bc47d19c283cd33"
+    "1.0.0": "github:typed-typings/npm-wordwrap#c5852a5a23954e721246001d4bc47d19c283cd33"
   }
 }

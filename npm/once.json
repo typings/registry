@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.3.0": "github:types/npm-once#0ab1db1b324b3ea47fb68e0926bf993a5347353f"
+    "1.3.0": "github:typed-typings/npm-once#0ab1db1b324b3ea47fb68e0926bf993a5347353f"
   }
 }

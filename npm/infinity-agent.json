@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:types/npm-infinity-agent#545612609b0d4b36ba98b3f2c0f83484af1978ae"
+    "2.0.0": "github:typed-typings/npm-infinity-agent#545612609b0d4b36ba98b3f2c0f83484af1978ae"
   }
 }

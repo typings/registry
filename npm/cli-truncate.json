@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.3.0": "github:types/npm-cli-truncate#56b2d8caf9fe931006cb5a1b8ef4f8fd7eed9fe0"
+    "0.3.0": "github:typed-typings/npm-cli-truncate#56b2d8caf9fe931006cb5a1b8ef4f8fd7eed9fe0"
   }
 }

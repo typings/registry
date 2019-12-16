@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-sort-keys#168ea92a8450b3573470f3f5c0d58e6a97181673"
+    "1.0.0": "github:typed-typings/npm-sort-keys#168ea92a8450b3573470f3f5c0d58e6a97181673"
   }
 }

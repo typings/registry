@@ -1,5 +1,5 @@
 {
   "versions": {
-    "4.0.0": "github:types/lib-json-schema/v4#1288d50cb7b3e7d5cacefca44260d4bfb8c959f2"
+    "4.0.0": "github:typed-typings/lib-json-schema/v4#1288d50cb7b3e7d5cacefca44260d4bfb8c959f2"
   }
 }

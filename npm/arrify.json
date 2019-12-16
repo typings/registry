@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-arrify#df1f3102e97f6d0aadcd06da2c7c1eb069304f5b"
+    "1.0.0": "github:typed-typings/npm-arrify#df1f3102e97f6d0aadcd06da2c7c1eb069304f5b"
   }
 }

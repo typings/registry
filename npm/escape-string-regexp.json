@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-escape-string-regexp#d587377ce17cf670f25ef0cdae7ce8d3b433ce46"
+    "1.0.0": "github:typed-typings/npm-escape-string-regexp#d587377ce17cf670f25ef0cdae7ce8d3b433ce46"
   }
 }

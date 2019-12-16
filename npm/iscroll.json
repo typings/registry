@@ -1,5 +1,5 @@
 {
   "versions": {
-    "5.1.3": "github:types/typed-iscroll#8524f7c88e521c16462553173c9ea99e9e3d477c"
+    "5.1.3": "github:typed-typings/typed-iscroll#8524f7c88e521c16462553173c9ea99e9e3d477c"
   }
 }

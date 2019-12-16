@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:types/npm-parse-json#74152f9c8b831227fc4eb3533fcd01b8906e2694"
+    "2.0.0": "github:typed-typings/npm-parse-json#74152f9c8b831227fc4eb3533fcd01b8906e2694"
   }
 }

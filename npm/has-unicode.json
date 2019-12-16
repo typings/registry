@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:types/npm-has-unicode#08d312d056f38a83a63d73c71f8fac043ac62328"
+    "2.0.0": "github:typed-typings/npm-has-unicode#08d312d056f38a83a63d73c71f8fac043ac62328"
   }
 }

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-passport-fitbit-oauth2#94043303cce29a5bb924bd7c3e0caa1e8c1df8ee"
+    "1.0.0": "github:typed-typings/npm-passport-fitbit-oauth2#94043303cce29a5bb924bd7c3e0caa1e8c1df8ee"
   }
 }

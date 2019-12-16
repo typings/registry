@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.3.0": "github:types/npm-passport-oauth2#b3d37ae5a881932321d5a4b1a052ddc4ef5af42c"
+    "1.3.0": "github:typed-typings/npm-passport-oauth2#b3d37ae5a881932321d5a4b1a052ddc4ef5af42c"
   }
 }
