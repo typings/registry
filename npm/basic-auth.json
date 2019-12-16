@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.4": "github:types/npm-basic-auth#6ef4a98dcf8933836878cc45171b154cfe36e00e"
+    "1.0.4": "github:typed-typings/npm-basic-auth#6ef4a98dcf8933836878cc45171b154cfe36e00e"
   }
 }

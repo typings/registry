@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.6.15": "github:types/npm-big-integer#f6861ea9a7a9bb72f4001dadf03c0ffb14ef7584"
+    "1.6.15": "github:typed-typings/npm-big-integer#f6861ea9a7a9bb72f4001dadf03c0ffb14ef7584"
   }
 }

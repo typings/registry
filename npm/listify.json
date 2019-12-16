@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-listify#ff7fcd328b8285b38c9e941945bde33e8f249147"
+    "1.0.0": "github:typed-typings/npm-listify#ff7fcd328b8285b38c9e941945bde33e8f249147"
   }
 }

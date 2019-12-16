@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-lockfile#de6a705d24efa52c62cd0da4eadfeb3d642058bd"
+    "1.0.0": "github:typed-typings/npm-lockfile#de6a705d24efa52c62cd0da4eadfeb3d642058bd"
   }
 }

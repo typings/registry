@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.6.0": "github:types/npm-type-is#30885970ebd09c4ec77ac49d03e37ee054030bb3"
+    "1.6.0": "github:typed-typings/npm-type-is#30885970ebd09c4ec77ac49d03e37ee054030bb3"
   }
 }

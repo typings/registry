@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-passport-google-oauth20#2bd2237978a35f6eaa34023153926f133d9a283c"
+    "1.0.0": "github:typed-typings/npm-passport-google-oauth20#2bd2237978a35f6eaa34023153926f133d9a283c"
   }
 }

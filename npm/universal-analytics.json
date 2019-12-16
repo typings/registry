@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.3.10": "github:types/npm-universal-analytics#2d334dadcfdf190456dbbe1ad60ede8c5fd47bfa"
+    "0.3.10": "github:typed-typings/npm-universal-analytics#2d334dadcfdf190456dbbe1ad60ede8c5fd47bfa"
   }
 }

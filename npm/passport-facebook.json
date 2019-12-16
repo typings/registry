@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.1.0": "github:types/npm-passport-facebook#6d65f6fe621d45408bb3674e63823fdd068da5e2"
+    "2.1.0": "github:typed-typings/npm-passport-facebook#6d65f6fe621d45408bb3674e63823fdd068da5e2"
   }
 }

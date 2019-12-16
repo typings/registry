@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.47.0": "github:types/npm-simple-git#8d7775001d6af0946f1e59823cdb43659009b81c"
+    "1.47.0": "github:typed-typings/npm-simple-git#8d7775001d6af0946f1e59823cdb43659009b81c"
   }
 }

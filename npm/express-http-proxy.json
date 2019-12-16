@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.6.0": "github:types/npm-express-http-proxy#21cd4e88291c524fe4932e2b05dba4360740be17"
+    "0.6.0": "github:typed-typings/npm-express-http-proxy#21cd4e88291c524fe4932e2b05dba4360740be17"
   }
 }

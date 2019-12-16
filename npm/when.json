@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.4.0": "github:types/npm-when/2#5e05a8f9b38372953ceafa57603be8fe1623e32f"
+    "2.4.0": "github:typed-typings/npm-when/2#5e05a8f9b38372953ceafa57603be8fe1623e32f"
   }
 }

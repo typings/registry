@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.1.0": "github:types/npm-falcor-json-graph#9db4cc817e676b1317d4b19f3ed9753be10eff91"
+    "1.1.0": "github:typed-typings/npm-falcor-json-graph#9db4cc817e676b1317d4b19f3ed9753be10eff91"
   }
 }

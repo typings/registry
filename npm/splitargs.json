@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.0.5": "github:types/npm-splitargs#8cbbeffdc73886393848bc4a74f87fd6d499fb47"
+    "0.0.5": "github:typed-typings/npm-splitargs#8cbbeffdc73886393848bc4a74f87fd6d499fb47"
   }
 }

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.13.4": "github:types/global-expect#20c809da86ebf2e9f2f2e70838f8982ddae1371d"
+    "1.13.4": "github:typed-typings/global-expect#20c809da86ebf2e9f2f2e70838f8982ddae1371d"
   }
 }

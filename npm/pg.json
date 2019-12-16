@@ -1,7 +1,7 @@
 {
   "versions": {
-    "4.4.4": "github:types/npm-pg#83236e7c54254e5e4135efc79280c91d3ba2d819",
-    "4.5.1": "github:types/npm-pg#cadcb87875c39a59cd6d4f09ff9b2eac5e44370b",
-    "6.0.2": "github:types/npm-pg#ba5ea76de73f2cd352e3b69f149cd97dfba1d4c9"
+    "4.4.4": "github:typed-typings/npm-pg#83236e7c54254e5e4135efc79280c91d3ba2d819",
+    "4.5.1": "github:typed-typings/npm-pg#cadcb87875c39a59cd6d4f09ff9b2eac5e44370b",
+    "6.0.2": "github:typed-typings/npm-pg#ba5ea76de73f2cd352e3b69f149cd97dfba1d4c9"
   }
 }

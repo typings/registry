@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.1": "github:types/npm-envobj#90baa65b223bf795b49a45095efaf80a6d396930"
+    "1.0.1": "github:typed-typings/npm-envobj#90baa65b223bf795b49a45095efaf80a6d396930"
   }
 }

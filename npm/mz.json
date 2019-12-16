@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.4.0": "github:types/npm-mz#5fdd82eac73b11b9fcedc2a57b5c9a7deb438491"
+    "2.4.0": "github:typed-typings/npm-mz#5fdd82eac73b11b9fcedc2a57b5c9a7deb438491"
   }
 }

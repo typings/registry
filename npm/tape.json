@@ -1,5 +1,5 @@
 {
   "versions": {
-    "4.0.0": "github:types/npm-tape#9746a421d7928ddc84ebcb9d5c3b2a77c38c0b33"
+    "4.0.0": "github:typed-typings/npm-tape#9746a421d7928ddc84ebcb9d5c3b2a77c38c0b33"
   }
 }

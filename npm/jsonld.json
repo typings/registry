@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.4.0": "github:types/npm-jsonld#69bc74f02e2b0a023a076901e53091ed70c2bf6f"
+    "0.4.0": "github:typed-typings/npm-jsonld#69bc74f02e2b0a023a076901e53091ed70c2bf6f"
   }
 }

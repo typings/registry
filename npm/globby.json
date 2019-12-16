@@ -1,5 +1,5 @@
 {
   "versions": {
-    "3.0.0": "github:types/npm-globby#6f91a21011a4cc11ef53600f985b8a0ae7ee7cae"
+    "3.0.0": "github:typed-typings/npm-globby#6f91a21011a4cc11ef53600f985b8a0ae7ee7cae"
   }
 }

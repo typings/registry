@@ -2,7 +2,7 @@
   "versions": {
     "2.0.0-alpha.1": {
       "compiler": "2.2.0",
-      "location": "github:types/npm-cookie-session#2fa665e4c0cb5adfd430b4847ab79e937890c4fc"
+      "location": "github:typed-typings/npm-cookie-session#2fa665e4c0cb5adfd430b4847ab79e937890c4fc"
     }
   }
 }

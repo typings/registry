@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.2.0": "github:types/npm-is-absolute#229fe8976b51bb721e92da2353e34bceaae0c108"
+    "0.2.0": "github:typed-typings/npm-is-absolute#229fe8976b51bb721e92da2353e34bceaae0c108"
   }
 }

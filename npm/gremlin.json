@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:types/npm-gremlin#882003e8e751f7dba9dd3d2b72b38fcd32c2f6fc"
+    "2.0.0": "github:typed-typings/npm-gremlin#882003e8e751f7dba9dd3d2b72b38fcd32c2f6fc"
   }
 }

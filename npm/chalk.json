@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.1.1": "github:types/npm-chalk#de4e16749edee61299866480e2f0ae2396ccdad1"
+    "1.1.1": "github:typed-typings/npm-chalk#de4e16749edee61299866480e2f0ae2396ccdad1"
   }
 }

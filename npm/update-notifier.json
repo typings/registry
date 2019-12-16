@@ -1,6 +1,6 @@
 {
   "versions": {
-    "0.6.0": "github:types/npm-update-notifier#d3a027d90487f1b876157c75419f5c4a4a097a09",
-    "2.0.0": "github:types/npm-update-notifier#0c61b6e4f0e166fd601a8cd221ed1880a73b0caa"
+    "0.6.0": "github:typed-typings/npm-update-notifier#d3a027d90487f1b876157c75419f5c4a4a097a09",
+    "2.0.0": "github:typed-typings/npm-update-notifier#0c61b6e4f0e166fd601a8cd221ed1880a73b0caa"
   }
 }

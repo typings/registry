@@ -1,5 +1,5 @@
 {
   "versions": {
-    "3.0.0": "github:types/npm-koa-compose#b3c3a1e7e41a0de8939f46efac1c8a4737bec699"
+    "3.0.0": "github:typed-typings/npm-koa-compose#b3c3a1e7e41a0de8939f46efac1c8a4737bec699"
   }
 }

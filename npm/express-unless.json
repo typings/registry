@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.3.0": "github:types/npm-express-unless#857507abd5c2dafcab68df262472fc90698d3b14"
+    "0.3.0": "github:typed-typings/npm-express-unless#857507abd5c2dafcab68df262472fc90698d3b14"
   }
 }

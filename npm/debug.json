@@ -1,5 +1,5 @@
 {
   "versions": {
-    "2.0.0": "github:types/npm-debug#895c21d37050c5fc7d6fb542007840a192fd0314"
+    "2.0.0": "github:typed-typings/npm-debug#895c21d37050c5fc7d6fb542007840a192fd0314"
   }
 }

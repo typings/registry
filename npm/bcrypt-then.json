@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.1.0": "github:types/npm-bcrypt-then#dd256adc4a98da0b01a43cda6f65ce4b01b7e450"
+    "1.1.0": "github:typed-typings/npm-bcrypt-then#dd256adc4a98da0b01a43cda6f65ce4b01b7e450"
   }
 }

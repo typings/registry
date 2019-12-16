@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-subarg#fea5307f356cde413f310009ff18f8c378ddead2"
+    "1.0.0": "github:typed-typings/npm-subarg#fea5307f356cde413f310009ff18f8c378ddead2"
   }
 }

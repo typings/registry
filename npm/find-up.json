@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.1.2": "github:types/npm-find-up#33fc4719e4433245f7467f349dd1ebd812231d28"
+    "1.1.2": "github:typed-typings/npm-find-up#33fc4719e4433245f7467f349dd1ebd812231d28"
   }
 }

@@ -1,5 +1,5 @@
 {
   "versions": {
-    "0.4.1": "github:types/npm-parse-link-header#64f33657616845723a7062ce636ac375a257d2e9"
+    "0.4.1": "github:typed-typings/npm-parse-link-header#64f33657616845723a7062ce636ac375a257d2e9"
   }
 }

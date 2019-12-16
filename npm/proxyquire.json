@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.0": "github:types/npm-proxyquire#e94c99bbac8d350e28edd70471d9460a5534927b"
+    "1.0.0": "github:typed-typings/npm-proxyquire#e94c99bbac8d350e28edd70471d9460a5534927b"
   }
 }

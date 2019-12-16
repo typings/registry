@@ -1,5 +1,5 @@
 {
   "versions": {
-    "1.0.8": "github:types/npm-domready#20df138f0d5de36e2663dc4ff8bb5d98fc8f7639"
+    "1.0.8": "github:typed-typings/npm-domready#20df138f0d5de36e2663dc4ff8bb5d98fc8f7639"
   }
 }
